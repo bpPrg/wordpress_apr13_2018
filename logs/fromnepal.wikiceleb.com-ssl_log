@@ -1,0 +1,2 @@
+198.252.107.62 - - [13/Apr/2018:06:19:01 -0700] "POST /wp-cron.php?doing_wp_cron=1523625540.6607410907745361328125 HTTP/1.1" 200 0 "https://fromnepal.tk/wp-cron.php?doing_wp_cron=1523625540.6607410907745361328125" "WordPress/4.9.5; https://fromnepal.tk"
+138.246.253.19 - - [13/Apr/2018:06:19:00 -0700] "HEAD / HTTP/1.1" 301 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36"

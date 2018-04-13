@@ -1,0 +1,641 @@
+# Webalizer V2.23-08 Incremental Data - 04/13/2018 00:27:25
+2018 4 13 0 27 25
+1090 1065 77 97 13 35 20083759 85 55 0
+2 3 105 6 13
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+153 137 2748214 20 29 9
+231 227 4036039 21 19 14
+90 88 1952858 7 7 6
+226 225 5609430 13 10 8
+78 78 496502 9 4 4
+151 151 2438108 10 7 6
+158 157 2791962 7 8 7
+3 2 10646 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+87 85 1933482 5
+121 120 2424544 5
+102 101 1135911 6
+133 130 2534570 10
+17 17 321507 2
+29 29 384848 1
+29 29 824314 1
+31 31 638193 3
+25 25 185692 2
+32 32 1323388 2
+32 32 663062 3
+67 62 847650 11
+45 39 1234371 4
+0 0 0 0
+15 15 81270 2
+26 26 187446 1
+0 0 0 0
+49 49 1071869 2
+26 26 118736 1
+3 2 10163 2
+39 39 684999 2
+83 82 1922836 4
+29 25 463364 6
+70 69 1091544 10
+0
+0
+0
+1065
+0
+0
+0
+0
+0
+6
+0
+11
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/plugins/crayon-syntax-highlighter/css/images/toolbar/buttons@2x.png
+0 5 7595428727482579561 15905 0 0
+/wp-content/themes/identity/style.css
+0 12 0 204312 0 0
+/wp-content/uploads/2018/04/after_ssh-1024x446.png
+0 1 0 257847 0 0
+/wp-content/themes/wen-corporate/third-party/mmenu/js/jquery.mmenu.min.js
+0 2 0 9294 0 0
+/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+0 4 0 1958 0 0
+/wp-content/themes/wen-corporate/js/custom.min.js
+0 2 0 522 0 0
+/wp-content/themes/meditation/img/logo.png
+0 21 0 2504264 0 0
+/.well-known/acme-challenge/PA58ROI9KPSSW8JJOQ0UOTB35529E42-
+0 1 0 64 0 0
+/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css
+0 37 0 8969 0 0
+/wp-content/plugins/simple-pdf-viewer/js/main.js
+0 6 0 888 0 0
+/wp-content/themes/meditation/genericons/genericons/Genericons.svg
+0 4 0 121232 0 0
+/wp-content/uploads/2018/04/cropped-bhishan1-4.jpg
+0 2 0 331422 0 0
+/cgi-sys/defaultwebpage.cgi
+0 1 0 1944 1 0
+/wp-content/themes/oblique/js/navigation.js
+0 1 0 469 0 0
+/wp-content/themes/wen-corporate/fonts/fontawesome-webfont.woff2
+0 2 0 113560 0 0
+/wp-content/themes/wen-corporate/js/skip-link-focus-fix.min.js
+0 2 0 528 0 0
+/wp-content/plugins/jetpack/modules/wpgroho.js
+0 26 0 12981 0 0
+/wp-content/themes/twentyseventeen/style.css
+0 3 0 60504 0 0
+/wp-content/themes/meditation/js/blog.js
+0 24 0 12513 0 0
+/.well-known/acme-challenge/wPmcKMw7WHxexbK3xXvvV9i3aukGxoo6eAgPgnmFXpo
+0 2 0 174 0 0
+/wp-content/plugins/tablepress/css/default.min.css
+0 7 0 19669 0 0
+/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css
+0 25 0 8389 0 0
+/wp-content/themes/identity/js/skip-link-focus-fix.js
+0 12 0 4668 0 0
+/wp-content/themes/meditation/genericons/genericons.css
+0 25 0 3850 0 0
+/wp-content/themes/wen-corporate/css/responsive.css
+0 2 0 6672 0 0
+/.well-known/acme-challenge/HWYVR56DYMR0IKUYDCQX_04D1J9W75_-
+0 1 0 64 0 0
+/.well-known/acme-challenge/70aQaeDSHvDq7kxhLvXAqoaZpO3oBJ2EMc6SNIFLnrk
+0 2 0 174 0 0
+/.well-known/acme-challenge/GYLuxyT0P0-cFEV93hzgab4nsnBcp-_5IFvRX1159Ng
+0 2 0 174 0 0
+/wp-content/plugins/simple-pdf-viewer/css/style.css
+0 6 0 1392 0 0
+/wp-includes/js/masonry.min.js
+0 1 0 9984 0 0
+/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+0 4 0 13711 0 0
+/.well-known/acme-challenge/aeZEl8VpXWqM4LleaB_AsScL9s21ut8vuunkNYt7vEI
+0 2 0 174 0 0
+/.well-known/acme-challenge/N_UGWDK4LZSZTC2SXAGZCK2CFAHARC_U
+0 1 0 64 0 0
+/wp-content/themes/identity/genericons/genericons.css
+0 12 0 1848 0 0
+/wp-includes/js/imagesloaded.min.js
+0 1 0 2777 0 0
+/favicon.ico
+0 8 0 0 0 0
+/wp-content/themes/wen-corporate/css/bootstrap.min.css
+0 2 0 49010 0 0
+/wp-content/uploads/2018/04/cropped-bhishan1-1.jpg
+0 1 0 269613 0 0
+/wp-content/themes/oblique/style.css
+0 1 0 11410 0 0
+/wp-content/themes/identity/genericons/genericons/genericons.css
+0 12 0 201024 0 0
+/wp-content/themes/identity/js/identity.js
+0 12 0 17004 0 0
+/.well-known/acme-challenge/Y3XBofbZYgWIG9zxQ47OtdXhpjF3kiz0Osy14oiBDnI
+0 2 0 174 0 0
+/wp-content/themes/wen-corporate/third-party/mmenu/css/jquery.mmenu.min.css
+0 2 0 3590 0 0
+/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css
+0 37 0 174329 0 0
+/.well-known/acme-challenge/K0SK65ZGK4MC2G6BT-PWFAH4RQFX88-J
+0 1 0 64 0 0
+/wp-content/themes/twentyseventeen/assets/js/global.js
+0 4 0 16415 0 0
+/wp-content/themes/wen-corporate/third-party/owl-carousel/owl.carousel.min.css
+0 2 120325172786287 2696 0 0
+/wp-content/themes/oblique/webfonts/fa-solid-900.woff2
+0 1 3891391553024819200 44004 0 0
+/wp-content/plugins/crayon-syntax-highlighter/css/images/toolbar/buttons.png
+0 22 3258130245537248816 49192 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 41 3256723948777465088 180745 0 0
+/.well-known/acme-challenge/EV0-YII69N6D207WW_WCUWGN15B5KOT3
+0 1 3615603470254629733 64 0 0
+/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco/monaco-webfont.woff
+0 29 6644782 619788 0 0
+/wp-content/themes/wen-corporate/css/blue.css
+0 2 0 1772 0 0
+/wp-content/uploads/2018/04/cropped-111.jpg
+0 11 0 2328337 0 0
+/wp-content/themes/wen-corporate/third-party/owl-carousel/owl.carousel.min.js
+0 2 0 15232 0 0
+/wp-content/themes/meditation/style.css
+0 25 0 287769 0 0
+/.well-known/acme-challenge/71-W-MRAH6H5P9GQOBKD2WVESJ1A4FFN
+0 1 0 64 0 0
+/.well-known/acme-challenge/80HBoa-exeMxZOqscw8eCM2Dt_khl2GqRtJJY9BzUi8
+0 2 0 174 0 0
+/.well-known/acme-challenge/eMXQTRXtf6RQjxzWhmsz-ZksfgfYoDR-Y8nRLGETvyY
+0 2 0 174 0 0
+/wp-content/plugins/crayon-syntax-highlighter/themes/arduino-ide/arduino-ide.css
+0 37 0 29133 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 7 0 4833 0 0
+/wp-includes/js/jquery/jquery.js
+0 41 0 1629521 0 0
+/wp-content/themes/wen-corporate/style.css
+0 2 0 26016 0 0
+/wp-content/themes/meditation/js/navigation.js
+0 24 0 31665 0 0
+/wp-includes/js/wp-embed.min.js
+0 40 0 30849 0 0
+/wp-content/plugins/contact-form-7/includes/js/scripts.js
+0 7 0 32210 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 39 0 181593 0 0
+/robots.txt/
+0 1 0 5082 1 0
+/wp-content/themes/oblique/js/vendor/main.js
+0 1 0 3489 0 0
+/wp-content/themes/meditation/js/fixed-widget.js
+0 24 0 22929 0 0
+/wp-content/themes/oblique/js/vendor/masonry-init.js
+0 1 0 1060 0 0
+/wp-content/themes/wen-corporate/js/jquery.placeholder.min.js
+0 2 0 2424 0 0
+/wp-content/themes/oblique/js/skip-link-focus-fix.js
+0 1 0 389 0 0
+/wp-content/themes/identity/js/navigation.js
+0 12 0 5604 0 0
+/wp-content/themes/meditation/genericons/genericons/genericons.css
+0 26 0 432318 0 0
+/.well-known/acme-challenge/CdVTA5RZBya9HJtWQ_M4iUk7gX1Gr6sH4CUW_pH72s8
+0 2 0 174 0 0
+/wp-content/uploads/2018/04/111.jpg
+0 21 0 3220192 0 0
+/
+0 67 0 575888 52 3
+/wp-content/uploads/2018/04/before_ssh-1024x447.png
+0 1 0 264337 0 0
+/wp-content/themes/oblique/fonts/fontawesome-all.min.css
+0 1 0 9247 0 0
+/wp-content/themes/oblique/js/vendor/imagesloaded.pkgd.min.js
+0 1 0 2608 0 0
+/.well-known/acme-challenge/HM9WPH7KLYETXGSHWUK_DUVSNLCHF8HU
+0 1 0 64 0 0
+/wp-content/uploads/2018/04/cropped-milky-way-2695569_1280-1.jpg
+0 23 0 3715274 0 0
+/.well-known/acme-challenge/VSYB_1S5JPT3Y-B5150IBUYKC6482Z78
+0 1 0 64 0 0
+/wp-content/plugins/jetpack/css/jetpack.css
+0 25 0 368386 0 0
+/wp-content/themes/meditation/css/animate.css
+0 25 0 263679 0 0
+/wp-content/themes/meditation/js/sidebar.js
+0 24 0 13149 0 0
+/wp-content/themes/oblique/js/scripts.js
+0 1 0 395 0 0
+/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js
+0 36 0 274959 0 0
+/robots.txt
+0 4 0 280 0 0
+/wp-content/themes/wen-corporate/third-party/cycle2/js/jquery.cycle2.min.js
+0 2 0 16314 0 0
+/wp-content/themes/wen-corporate/css/font-awesome.min.css
+0 2 0 12214 0 0
+/wp-content/themes/meditation/css/scheme-0.css
+0 25 0 77156 0 0
+/wp-content/themes/twentyseventeen/assets/images/header.jpg
+0 7 0 803978 0 0
+/wp-cron.php
+0 28 0 0 0 0
+/wp-content/themes/meditation/js/header.js
+0 24 0 8901 0 0
+/wp-content/themes/oblique/bootstrap/css/bootstrap.min.css
+0 1 0 9930 0 0
+# End Of Table - urls
+# -sites- (monthly)
+google-proxy-66-249-82-184.google.com
+0 1 1 16752 0 0
+-
+google-proxy-66-102-6-78.google.com
+0 13 13 381860 1 1523528599
+/
+198.199.92.66
+0 17 17 337463 1 1523072060
+/
+69.171.251.11
+0 1 1 114854 0 0
+-
+dhcp-064-247-077-203.sg4.ohiou.edu
+0 37 37 684999 1 1523479642
+/
+ec2-34-229-82-124.compute-1.amazonaws.com
+0 27 27 640946 1 1523223473
+/
+64.74.215.46
+0 25 25 187455 1 1523403572
+/
+ec2-34-229-84-222.compute-1.amazonaws.com
+0 17 17 337470 1 1523071899
+/
+202.51.76.80
+0 27 27 509771 1 1523244617
+/
+google-proxy-66-249-82-220.google.com
+0 3 3 10532 1 1523076448
+/
+173.252.124.55
+0 5 5 48620 1 1523016249
+/
+66.220.146.20
+0 2 2 11454 0 0
+-
+27.34.104.130
+0 33 33 397839 1 1523016649
+/
+27.34.105.152
+0 12 12 220692 1 1523052561
+/
+173.252.115.86
+0 1 1 264337 0 0
+-
+173.252.124.59
+0 2 2 114854 0 0
+-
+69.171.251.8
+0 1 1 114854 0 0
+-
+ec2-54-87-252-196.compute-1.amazonaws.com
+0 18 17 337468 1 1523071924
+/
+crawl-66-249-79-17.googlebot.com
+0 1 1 16220 0 0
+-
+64.74.215.88
+0 25 25 187446 1 1523374941
+/
+ec2-35-173-125-120.compute-1.amazonaws.com
+0 18 17 337458 1 1523071965
+/
+google-proxy-66-102-6-76.google.com
+0 6 6 185614 1 1523437358
+/
+198.252.107.62-static.reverse.arandomserver.com
+0 47 47 1469 0 0
+-
+ppp-94-68-10-80.home.otenet.gr
+0 2 1 10012 1 1523229755
+/
+ec2-52-27-221-93.us-west-2.compute.amazonaws.com
+0 1 1 10006 1 1523196350
+/
+64.74.215.164
+0 12 12 71264 1 1523283892
+/
+ec2-18-204-5-182.compute-1.amazonaws.com
+0 33 32 650264 1 1523497330
+/
+27.34.104.50
+0 17 17 469937 1 1523272213
+/
+66.220.149.27
+0 1 1 97184 0 0
+-
+ppp-94-68-11-207.home.otenet.gr
+0 2 1 10646 1 1523579235
+/
+70.42.131.170
+0 33 33 650268 2 1523576228
+/
+66.220.151.92
+0 2 2 26232 1 1523016249
+/
+173.252.124.54
+0 2 2 42032 0 0
+-
+ec2-54-165-133-203.compute-1.amazonaws.com
+0 17 17 337474 1 1523068319
+/
+ec2-54-144-254-109.compute-1.amazonaws.com
+0 27 27 640945 1 1523223530
+/
+173.252.115.90
+0 1 1 257847 0 0
+-
+69.171.251.13
+0 2 2 229708 0 0
+-
+ec2-54-165-139-131.compute-1.amazonaws.com
+0 27 27 640944 1 1523234026
+/
+132.235.98.129
+0 26 21 190447 1 1523014886
+-
+cpe-74-140-74-136.columbus.res.rr.com
+0 20 20 418794 1 1523035271
+/
+138.68.29.214
+0 18 17 337470 1 1523072144
+/
+ec2-52-200-99-164.compute-1.amazonaws.com
+0 32 32 650263 1 1523497311
+/
+27.34.104.112
+0 28 28 384848 1 1523425577
+/
+google-proxy-66-249-82-219.google.com
+0 2 2 5564 0 0
+-
+69.171.225.145
+0 1 1 683 0 0
+-
+crawl-66-249-79-21.googlebot.com
+0 39 39 183450 1 1523325938
+/
+starwars.phy.ohiou.edu
+0 27 27 649884 1 1523254470
+/
+ec2-34-205-157-229.compute-1.amazonaws.com
+0 32 32 650266 1 1523497312
+/
+ec2-54-226-86-112.compute-1.amazonaws.com
+0 17 17 337470 1 1523071951
+/
+crawl-66-249-79-23.googlebot.com
+0 5 5 19226 0 0
+-
+27.34.20.235
+0 22 22 473751 1 1523239175
+/
+google-proxy-66-249-82-180.google.com
+0 3 3 5264 0 0
+-
+199.30.228.131
+0 1 1 10004 1 1523153057
+/
+ec2-54-82-212-171.compute-1.amazonaws.com
+0 18 17 337461 1 1523068369
+/
+ec2-54-159-22-193.compute-1.amazonaws.com
+0 28 27 640945 1 1523223537
+/
+27.34.105.135
+0 12 12 210573 1 1523016655
+/
+27.34.20.245
+0 1 1 10007 1 1523344134
+/
+66.220.146.184
+0 1 1 7682 0 0
+-
+google-proxy-66-249-82-120.google.com
+0 3 3 18688 0 0
+-
+outbound1.letsencrypt.org
+0 5 5 435 0 0
+-
+27.34.16.108
+0 23 23 180256 1 1523521626
+/
+crawl-66-249-79-15.googlebot.com
+0 1 1 307 0 0
+-
+crawl-66-249-79-25.googlebot.com
+0 3 3 11127 1 1523471212
+/
+dhcp-064-247-100-078.eg5.ohiou.edu
+0 27 27 622751 1 1523432490
+/
+google-proxy-66-102-6-80.google.com
+0 10 10 69945 1 1523437358
+/
+google-proxy-66-249-82-116.google.com
+0 2 2 212134 0 0
+-
+google-proxy-66-249-82-182.google.com
+0 2 2 47151 0 0
+-
+ozark.phy.ohiou.edu
+0 28 28 653075 1 1523123325
+/
+ec2-52-87-215-206.compute-1.amazonaws.com
+0 17 17 337474 1 1523068366
+/
+google-proxy-66-249-82-118.google.com
+0 1 1 5422 1 1523076449
+/
+173.252.115.171
+0 1 1 174430 0 0
+-
+27.34.20.181
+0 28 24 508826 3 1523095706
+/
+173.252.124.57
+0 2 2 5068 0 0
+-
+173.252.115.85
+0 1 1 174430 0 0
+-
+p5n16.trendiction.de
+0 3 2 10163 1 1523044047
+/
+ec2-54-161-113-175.compute-1.amazonaws.com
+0 55 54 1281892 1 1523234067
+/
+dhcp-064-247-068-022.sg2.ohiou.edu
+0 27 27 640943 1 1523270299
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+198.252.107.62-static.reverse.arandomserver.com
+0 1 1 0 0 0
+-
+ppp-94-68-11-207.home.otenet.gr
+0 2 1 10646 1 1523579235
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://bhishanpoudel.ml/robots.txt
+0 1
+http://bhishanpoudel.ml/wp-content/themes/oblique/fonts/fontawesome-all.min.css
+0 1
+http://bhishanpoudel.ml/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css
+0 20
+http://www.google.com/search
+0 1
+http://bhishanpoudel.ml/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css
+0 27
+- (Direct Request)
+0 121
+http://bhishanpoudel.ml/wp-content/themes/meditation/genericons/genericons.css
+0 1
+http://bhishanpoudel.ml/wp-content/themes/wen-corporate/css/font-awesome.min.css
+0 2
+http://m.facebook.com/
+0 3
+http://bhishanpoudel.ml/wp-cron.php
+0 28
+http://bhishanpoudel.ml/
+0 777
+http://mail.bhishanpoudel.ml/
+0 107
+http://l.facebook.com/l.php
+0 1
+# End Of Table - referrers
+# -agents- 
+win7ie80
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36
+0 27
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/67.0.3393.0 Safari/537.36
+0 137
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 8
+facebookexternalhit/1.1
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.0; trendictionbot0.5.0; trendiction search; http://www.trendiction.de/bo
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 1
+Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mob
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 35
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 49
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.27+ (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 50
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 27
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 27
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/67.0.3391.0 Safari/537.36
+0 122
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 141
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/65.0.3325.181 Safari/537.36
+0 31
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 90
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15
+0 28
+Cpanel-HTTP-Client/1.0
+0 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/67.0.3395.0 Safari/537.36
+0 32
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 GTB7.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0
+0 20
+Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/6
+0 11
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 2
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10.10; rv:53.0) Gecko/20100101 Firefox/53.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/67.0.3396.0 Safari/537.36
+0 65
+Mozilla/5.0 (Linux; Android 7.1.1; SM-N950U1 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/64.0
+0 24
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/67.0.3392.0 Safari/537.36
+0 27
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.81 Safari/537.36
+0 27
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+0 12
+Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17
+0 2
+WordPress/4.9.5; https://bhishanpoudel.ml
+0 28
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

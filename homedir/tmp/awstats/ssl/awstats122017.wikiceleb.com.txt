@@ -1,0 +1,391 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201712 will be lost/reset.
+# Last config file used to build this data file was /home/wikicele/tmp/awstats/ssl/awstats.wikiceleb.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2695                
+POS_VISITOR 7526                
+POS_DAY 9719                
+POS_DOMAIN 3437                
+POS_LOGIN 3813                
+POS_ROBOT 3968                
+POS_WORMS 4344                
+POS_EMAILSENDER 4475                
+POS_EMAILRECEIVER 4618                
+POS_SESSION 10388               
+POS_SIDER 10596               
+POS_FILETYPES 4753                
+POS_DOWNLOADS 4999                
+POS_OS 5047                
+POS_BROWSER 5195                
+POS_SCREENSIZE 5628                
+POS_UNKNOWNREFERER 5702                
+POS_UNKNOWNREFERERBROWSER 5935                
+POS_ORIGIN 6126                
+POS_SEREFERRALS 6264                
+POS_PAGEREFS 6418                
+POS_SEARCHWORDS 6861                
+POS_KEYWORDS 7013                
+POS_MISC 2359                
+POS_ERRORS 7072                
+POS_CLUSTER 3669                
+POS_SIDER_404 7200                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180101015551 134 27638 9514633570899
+FirstTime 20171201064926
+LastTime 20171231235523
+LastUpdate 20180104221810 134 0 133 0 0
+TotalVisits 190                 
+TotalUnique 57                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 57                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 3 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 21 385998 14 17 114476
+1 10 10 381 20 27 120631
+2 8 8 19924 6 8 31398
+3 10 10 8173 16 22 60428
+4 10 10 450 13 21 85644
+5 9 38 151877 16 30 171532
+6 23 70 575719 16 38 183832
+7 10 10 180 17 40 489134
+8 10 10 34010 17 25 668929
+9 10 37 342479 14 29 183985
+10 9 55 1294486 11 18 193276
+11 13 13 90 13 49 196354
+12 14 14 58753 11 29 321964
+13 5 5 0 9 12 329588
+14 9 9 90 9 15 32534
+15 4 4 0 4 8 18591
+16 12 12 52255 13 21 86415
+17 12 12 1685 14 19 173618
+18 33 82 1493213 16 21 59871
+19 9 9 90 12 16 51091
+20 12 12 51380 16 21 101467
+21 12 12 36330 12 19 90771
+22 18 18 27503 15 18 44515
+23 10 12 163620 7 7 71289
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ca 154 154 21
+np 75 151 3021225
+us 33 82 596509
+de 8 89 976691
+br 4 4 43794
+fr 4 4 360
+my 2 2 23396
+au 2 2 180
+es 1 1 90
+cn 1 1 36150
+ae 1 1 90
+ee 1 1 90
+kr 1 1 90
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 377 2462965 20171231235521 86
+bingpreview 18 895836 20171231051334 0
+ruby\/ 15 18172 20171208194515 0
+no_user_agent 5 187002 20171229234539 0
+[\s_+:,\.\;\/\\-]bot 5 236075 20171228172327 0
+googlebot 4 1338 20171229225843 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 28 256125 0 0
+png 20 278611 0 0
+jpg 101 2983901 0 0
+svg 3 12533 0 0
+php 240 116216 0 0
+html 38 344609 0 0
+woff2 1 64464 0 0
+jpeg 9 243896 0 0
+js 45 214803 0 0
+woff 8 183528 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 42 13
+Unknown 155 155
+linux 116 15
+linuxandroid 162 86
+winnt 4 4
+macosx 14 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome63.0.3239.111 26 5
+firefox50.0 85 4
+netscape5.0 1 1
+chrome55.0.2883.87 31 2
+chrome40.0.2214.85 3 3
+chrome65.0.3299.0 28 8
+chrome63.0.3239.83 11 11
+chrome63.0.3239.107 3 3
+chrome61.0.3163.98 8 8
+firefox54.0 9 9
+chrome59.0.3071.115 7 7
+chrome61.0.3163.100 8 8
+firefox31.0 1 1
+chrome62.0.3202.84 112 57
+msie11.0 2 2
+chrome58.0.3029.110 2 2
+chrome56.0.2924.87 2 2
+Unknown 154 154
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/4.9.1;_https://wikiceleb.com 20171231235523
+Mozilla/5.0_zgrab/0.x 20171231083003
+WordPress/4.9;_https://wikiceleb.com/wp 20171203010940
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.9.1;_https://wikiceleb.com 20171231235523
+WordPress/4.9;_https://wikiceleb.com/wp 20171203010940
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 58 215
+From1 0 0
+From2 1 1
+From3 9 29
+From4 219 248
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://webmail.wikiceleb.com/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 8 8
+https://198.252.107.62:443 1 1
+https://webmail.wikiceleb.com/cPanel_magic_revision_1509994100/unprotected/cpanel/style_v2_optimized.css 0 14
+https://webmail.wikiceleb.com 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 1 16543
+301 78 0
+405 1 60
+401 13 63342
+302 10 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/downloader/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 57
+198.252.107.62 154 154 21 20171231235523
+27.34.20.27 26 75 1494141 20171203201915
+192.198.80.227 14 14 140876 20171220085556
+54.183.130.127 8 8 60646 20171229003353
+27.34.105.191 6 12 378488 20171204004358
+54.87.224.173 4 14 121510 20171219065344
+137.226.113.23 4 85 969427 20171231092038
+27.34.105.65 4 23 981609 20171219105319
+107.23.112.89 4 14 121510 20171219065347
+93.19.205.218 4 4 360 20171210141138
+27.34.105.220 3 3 270 20171209042941
+110.44.113.133 3 3 270 20171210060049
+138.246.253.19 3 3 0 20171229121337
+177.35.201.246 2 2 21908 20171219124251
+187.67.214.149 2 2 21886 20171216161052
+27.34.104.254 2 2 667 20171204175612
+157.39.139.101 2 31 151877 20171218053159
+27.34.105.202 2 2 180 20171207222503
+175.138.65.245 2 2 23396 20171214200314
+27.34.21.208 1 3 163080 20171217235348
+144.138.170.211 1 1 90 20171214114104
+27.34.105.184 1 1 90 20171203030810
+113.199.139.66 1 1 90 20171214032353
+42.51.174.25 1 1 36150 20171216213216
+27.34.21.200 1 1 90 20171212014249
+27.34.105.233 1 1 90 20171215090945
+27.34.104.222 1 1 90 20171211093323
+110.34.0.160 1 1 90 20171214005028
+103.10.29.69 1 1 90 20171213230235
+27.34.49.234 1 1 90 20171213225608
+110.34.0.193 1 1 90 20171214024213
+93.190.152.161 1 1 90 20171214005213
+103.10.28.19 1 1 90 20171213231558
+202.70.70.228 1 1 90 20171212024024
+75.166.68.3 1 1 90 20171211090413
+182.93.71.249 1 1 90 20171205192154
+27.34.105.18 1 1 90 20171214043649
+111.119.41.68 1 1 90 20171209232346
+110.34.0.198 1 1 90 20171203212611
+14.202.86.113 1 1 90 20171213230453
+27.34.21.68 1 1 90 20171214045208
+103.58.144.16 1 1 90 20171214044235
+182.93.77.16 1 1 90 20171205034005
+202.51.93.16 1 1 90 20171208223621
+137.226.113.27 1 1 7264 20171231083003
+2.51.137.29 1 1 90 20171213230113
+37.157.104.137 1 1 90 20171202071609
+27.34.50.195 1 1 90 20171214015019
+202.51.93.29 1 1 90 20171204004216
+27.34.104.160 1 1 90 20171204044118
+49.126.157.70 1 1 90 20171209013711
+49.244.27.140 1 1 90 20171213224730
+150.107.205.50 1 1 90 20171213235029
+112.173.67.224 1 1 90 20171214031622
+113.199.163.86 1 1 90 20171214073546
+110.44.120.33 1 1 90 20171214010415
+182.93.71.228 1 1 90 20171209161516
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20171201 2 2 0 2
+20171202 3 3 7903 3
+20171203 31 107 1807219 8
+20171204 15 21 379335 8
+20171205 6 6 9012 6
+20171206 5 5 0 5
+20171207 3 3 180 2
+20171208 3 3 270 2
+20171209 8 8 630 6
+20171210 7 34 322146 5
+20171211 5 5 180 5
+20171212 6 6 8228 6
+20171213 8 8 630 8
+20171214 22 22 45580 17
+20171215 7 7 21196 7
+20171216 23 23 95088 13
+20171217 18 47 527436 14
+20171218 8 37 151877 6
+20171219 31 70 1283386 11
+20171220 18 18 9866 10
+20171221 6 6 0 5
+20171222 3 3 6790 3
+20171223 3 3 0 3
+20171224 1 1 0 1
+20171225 4 4 7230 4
+20171226 4 4 0 4
+20171227 4 4 0 3
+20171229 18 18 7240 9
+20171230 6 6 0 6
+20171231 9 9 7264 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 155
+5mn-15mn 2
+30mn-1h 13
+2mn-5mn 4
+30s-2mn 7
+1h+ 5
+15mn-30mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/wp-cron.php 153 0 107 107
+/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php 50 4500 44 43
+/xmlrpc.php 36 111695 4 5
+/top-9-richest-actor-world/ 20 208066 14 14
+/ 18 136543 18 17
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 2 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff 2 47528 0 2
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 0
+/wp/wp-admin/upgrade.php 1 21 1 1
+/wp-content/themes/awaken/fonts/fontawesome-webfont.woff2 1 64464 0 1
+END_SIDER

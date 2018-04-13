@@ -1,0 +1,2 @@
+[24-Feb-2018 07:30:16 UTC] WordPress database error Table 'wikicele_wp70.wped_automatic_feeds_list' doesn't exist for query 
+					ALTER TABLE wped_automatic_feeds_list CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci made by activate_plugin, do_action('activate_wp-automatic/wp-automatic.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, create_table_all, create_table_alb

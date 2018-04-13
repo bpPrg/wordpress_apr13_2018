@@ -1,0 +1,257 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distrubuted under the GPL-2.0+
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Tooltip\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-11-07 12:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cédric KEIFLIN <ced1870@gmail.com>\n"
+"Language-Team: Alsatium <contact@alsatium.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class.admin.php:42 includes/class.admin.php:242
+msgid "Tooltip CK"
+msgstr "Tooltip CK"
+
+#: includes/class.admin.php:54
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/class.admin.php:56
+msgid "Get the PRO Version"
+msgstr "Obtenir la version PRO"
+
+#: includes/class.admin.php:58
+msgid "You are using the PRO Version. Thank you !"
+msgstr "Vous utilisez la version PRO. Merci !"
+
+#: includes/class.admin.php:61 includes/class.admin.php:298
+msgid "Tooltip CK Pro Addon must be updated !"
+msgstr "Tooltip CK Pro Addon doit être mis à jour !"
+
+#: includes/class.admin.php:90
+msgid "Styles"
+msgstr "Styles"
+
+#: includes/class.admin.php:91
+msgid "Effects"
+msgstr "Effets"
+
+#: includes/class.admin.php:96
+msgid "Colors ans Styles"
+msgstr "Couleurs et Styles"
+
+#: includes/class.admin.php:98
+msgid "Background Color"
+msgstr "Couleur de fond"
+
+#: includes/class.admin.php:104
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: includes/class.admin.php:118
+msgid "Image repeat"
+msgstr "Répétition d'image"
+
+#: includes/class.admin.php:121
+msgid "Opacity"
+msgstr "Opacité"
+
+#: includes/class.admin.php:126
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: includes/class.admin.php:131
+msgid "Border radius"
+msgstr "Coins arrondis"
+
+#: includes/class.admin.php:133
+msgid "Top left"
+msgstr "Haut gauche"
+
+#: includes/class.admin.php:134
+msgid "Top right"
+msgstr "Haut droit"
+
+#: includes/class.admin.php:135
+msgid "Bottom right"
+msgstr "Bas droit"
+
+#: includes/class.admin.php:136
+msgid "Bottom left"
+msgstr "Bas gauche"
+
+#: includes/class.admin.php:139
+msgid "Shadow"
+msgstr "Ombre"
+
+#: includes/class.admin.php:142
+msgid "Blur"
+msgstr "Largeur"
+
+#: includes/class.admin.php:143
+msgid "Spread"
+msgstr "Dispersion"
+
+#: includes/class.admin.php:144
+msgid "Offset X"
+msgstr "Décalage horizontal"
+
+#: includes/class.admin.php:145
+msgid "Offset Y"
+msgstr "Décalage vertical"
+
+#: includes/class.admin.php:148
+msgid "Border"
+msgstr "Bordure"
+
+#: includes/class.admin.php:154
+msgid "Padding"
+msgstr "Marge interne"
+
+#: includes/class.admin.php:158
+msgid "Dimensions and Position"
+msgstr "Dimensions et Position"
+
+#: includes/class.admin.php:160
+msgid "Tooltip width"
+msgstr "Largeur de la bulle"
+
+#: includes/class.admin.php:165
+msgid "Tooltip Offset X"
+msgstr "Décalage horizontal"
+
+#: includes/class.admin.php:170
+msgid "Tooltip Offset Y"
+msgstr "Décalage vertical"
+
+#: includes/class.admin.php:174
+msgid "Text to hover styles"
+msgstr "Styles du texte survolé"
+
+#: includes/class.admin.php:176
+msgid "Color"
+msgstr "Couleur"
+
+#: includes/class.admin.php:181
+msgid "Decoration"
+msgstr "Décoration"
+
+#: includes/class.admin.php:184
+msgid "solid"
+msgstr "trait continu"
+
+#: includes/class.admin.php:185
+msgid "dashed"
+msgstr "trait discontinu"
+
+#: includes/class.admin.php:186
+msgid "dotted"
+msgstr "pointillé"
+
+#: includes/class.admin.php:193
+msgid "Italic"
+msgstr "Italique"
+
+#: includes/class.admin.php:202
+msgid "Opening speed"
+msgstr "Vitesse d'ouverture"
+
+#: includes/class.admin.php:207
+msgid "Closing delay"
+msgstr "Délai de fermeture"
+
+#: includes/class.admin.php:212
+msgid "Effect type"
+msgstr "Effet"
+
+#: includes/class.admin.php:215
+msgid "Height and Width"
+msgstr "Largeur et hauteur"
+
+#: includes/class.admin.php:216
+msgid "Width only"
+msgstr "Largeur seulement"
+
+#: includes/class.admin.php:217
+msgid "Height only"
+msgstr "Hauteur seulement"
+
+#: includes/class.admin.php:218
+msgid "Fade"
+msgstr "Fondu"
+
+#: includes/class.admin.php:224
+msgid "Tip Position"
+msgstr "Position de la bulle"
+
+#: includes/class.admin.php:227
+msgid "Right"
+msgstr "Droite"
+
+#: includes/class.admin.php:228
+msgid "Top"
+msgstr "Haut"
+
+#: includes/class.admin.php:229
+msgid "Left"
+msgstr "Gauche"
+
+#: includes/class.admin.php:230
+msgid "Bottom"
+msgstr "Bas"
+
+#: includes/class.admin.php:247 includes/class.admin.php:258
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: includes/class.admin.php:291
+msgid "Only available in the Pro Addon"
+msgstr "Uniquement disponible dans la version Pro"
+
+#: includes/class.admin.php:297
+msgid "Get more options with the Pro Addon"
+msgstr "Obtenez plus d'options avec la version Pro"
+
+#: includes/class.admin.php:299
+msgid "Created By"
+msgstr "Créé par"
+
+#: includes/class.fields.php:110 includes/class.fields.php:146
+msgid "yes"
+msgstr "Oui"
+
+#: includes/class.fields.php:111 includes/class.fields.php:147
+msgid "no"
+msgstr "Non"
+
+#: includes/class.fields.php:181
+msgid "Select"
+msgstr "Sélectionner"
+
+#: includes/class.fields.php:182
+msgid "Clear"
+msgstr "Effacer"
+
+#~ msgid "Create your Tooltip"
+#~ msgstr "Créez votre Tooltip"
+
+#~ msgid "test"
+#~ msgstr "Créez votre Tooltip"
+
+#~ msgid "Enter the the text to mouseover"
+#~ msgstr "Ecrire le texte à survoler"

@@ -1,0 +1,1 @@
+CREATE USER "wikicele" WITH PASSWORD E'md5d2ebb2e51d3329a5e7f1646e3280b5bc';

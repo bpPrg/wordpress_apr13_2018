@@ -1,0 +1,148 @@
+body {
+	color: #eee;
+	background: #272A28;
+}
+
+a {
+	color: #89c5d3;
+}
+
+#footer,
+.site-header {
+	background: #1C1F1E;
+}
+
+#home-widget-area {
+	background: #222223;
+}
+// Top Menu
+
+
+.top-bar-section > ul >.divider,
+.top-bar-section > ul > [role="separator"] {
+	border-color: #323635;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+	color: #eee;
+}
+
+.top-bar-section ul li:hover:not(.has-form) > a {
+	background: #5b6460;	
+}
+
+.top-bar-section > ul > li.active:not(.has-form) > a:not(.button) {
+	background: #161817;
+}
+.top-bar-section > ul > li.active:not(.has-form) > a:hover:not(.button),
+.top-bar-section > ul > li:not(.has-form) > a:hover:not(.button) {
+	background: #292e2c;
+}
+
+.top-bar-section .dropdown li:not(.has-form) a:not(.button) {
+	color: #eee;
+	background: #646464; }
+
+.top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
+    color: white;
+	background: #535353; }
+
+.contain-to-grid.fixed {
+	background: #222223;
+}
+
+.sectionmenu-before,
+.sectionmenu-after {
+	background: #252928;	
+}
+.sectionmenu-before,
+.sectionmenu-after,
+.section-menu ul li a,
+.section-menu > ul > li:first-child,
+.titlebar {
+	border-color: #323635;
+}
+.section-menu > ul > li > a {
+	color: #eee;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #eee;	
+}
+
+table {
+	background: none;
+	color: #eee;
+}
+
+table thead, table tfoot {
+
+}
+table thead tr th,
+table thead tr td,
+table tfoot tr th,
+table tfoot tr td,
+table tr th,
+table tr td {
+	border: 1px solid #404040;	
+	background: #353936;
+	color: #eee;
+}
+
+.entry-title {
+	border-color: #353936;
+}
+
+.entry-meta,
+.entry-meta a {
+	color: #89c5d3;	
+}
+
+.edit-link a {
+	background: #404040;
+}
+
+.widget_rss ul li a,
+.widget_nav_menu ul li a,
+.widget_meta ul li a,
+.widget_recent_entries ul li a,
+.widget_pages ul li a,
+.widget_archive ul li a,
+.widget_categories ul li a {
+	border-color: #353936;
+}
+
+.widget_rss ul li a:hover,
+.widget_recent_comments ul li a:hover,
+.widget_nav_menu ul li a:hover,
+.widget_meta ul li a:hover,
+.widget_recent_entries ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_categories ul li a:hover {
+	background: #787878;
+	color: #eee;
+}
+
+.wind_navigation .tabs > dd > a,
+.wind_navigation .tabs {
+	background: #343434;
+	color: #eee;
+	border-color: #535353;
+}
+.custom-background #footer-widget-area,
+.custom-background #footer,
+.custom-background .site-header {
+	background: rgba(0,0,0, 0.8);
+}
+
+.custom-background #main > .row,
+#main > .row   {
+	margin-bottom: 2em;
+	background: rgba(0,0,0, 0.8);
+	box-shadow: 0 3px 8px rgba(0, 0, 0, 0.65);
+}
+
+.featured-content {
+	background: #272A28;
+}

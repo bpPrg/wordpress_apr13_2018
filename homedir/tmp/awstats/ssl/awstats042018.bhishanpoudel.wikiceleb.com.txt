@@ -1,0 +1,666 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /home/wikicele/tmp/awstats/ssl/awstats.bhishanpoudel.wikiceleb.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2028                
+POS_TIME 2708                
+POS_VISITOR 9955                
+POS_DAY 18240               
+POS_DOMAIN 3581                
+POS_LOGIN 4071                
+POS_ROBOT 4226                
+POS_WORMS 4726                
+POS_EMAILSENDER 4857                
+POS_EMAILRECEIVER 5000                
+POS_SESSION 18521               
+POS_SIDER 18730               
+POS_FILETYPES 5135                
+POS_DOWNLOADS 5545                
+POS_OS 5923                
+POS_BROWSER 6190                
+POS_SCREENSIZE 6862                
+POS_UNKNOWNREFERER 6936                
+POS_UNKNOWNREFERERBROWSER 7201                
+POS_ORIGIN 7461                
+POS_SEREFERRALS 7606                
+POS_PAGEREFS 7791                
+POS_SEARCHWORDS 8921                
+POS_KEYWORDS 9073                
+POS_MISC 2371                
+POS_ERRORS 9132                
+POS_CLUSTER 3927                
+POS_SIDER_404 9310                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180413044657 71 18850 13228981711126
+FirstTime 20180406114505
+LastTime 20180413030453
+LastUpdate 20180413060051 71 0 71 0 0
+TotalVisits 243                 
+TotalUnique 196                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 210                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 15 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 31 148 2449689 9 10 352623
+1 34 255 4671742 9 16 623628
+2 21 140 4176639 9 17 1070465
+3 25 123 2099129 8 12 831322
+4 5 21 398635 0 7 1205395
+5 14 108 3336390 3 6 793628
+6 47 310 6775249 6 45 6281868
+7 42 113 1716845 0 10 1704426
+8 209 591 10094495 21 35 2601864
+9 220 356 5978241 17 55 8061107
+10 250 677 22899681 18 118 3996794
+11 352 909 46035472 11 19 1338891
+12 17 26 245869 0 7 1586092
+13 18 114 3439128 1 4 793011
+14 43 153 4045368 5 8 295371
+15 407 1363 40025976 29 31 529492
+16 181 275 5227336 13 15 265815
+17 226 549 7558779 9 17 2123600
+18 403 744 9679010 21 26 1321685
+19 581 1283 39427276 55 71 1452072
+20 388 785 16983718 40 83 2640241
+21 43 206 3916764 20 30 1763761
+22 32 158 2067224 6 7 264337
+23 342 2099 29969115 17 18 177484
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 3006 8343 204891937
+np 534 2499 51539263
+ca 336 357 818881
+au 18 78 1913841
+kr 8 39 1225262
+jp 7 7 84951
+be 4 35 984848
+gb 2 2 23584
+qa 2 5 175151
+dk 2 29 640361
+gr 2 2 3284
+lr 2 6 443753
+ae 2 2 24548
+ps 2 34 1170005
+pt 1 1 12296
+de 1 33 1140359
+in 1 33 1157748
+cl 1 1 12273
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+facebookexternalhit/ 133 29646875 20180413044657 0
+Googlebot/ 94 506592 20180411143624 3
+nbot 67 2715568 20180413030458 11
+Google[\x20]Web[\x20]Preview 30 658433 20180407204829 0
+no_user_agent 24 5226264 20180409095818 0
+Googlebot\-Image/ 7 487113 20180410043819 0
+XoviBot/ 4 97306 20180413012603 0
+crawl 4 46778 20180411192640 0
+LinkedInBot/ 2 12477 20180409062744 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+ttf 5 191224 0 0
+gif 148 1261838 0 0
+mp3 2 33438 0 0
+js 3444 34878116 0 0
+csv 1 75 0 0
+ico 2 64076 0 0
+Unknown 150 32600 0 0
+xml 12 5553 0 0
+jpg 496 48520710 0 0
+woff2 13 757708 0 0
+css 2422 11321415 0 0
+pdf 6 7094019 0 0
+eot 20 204168 0 0
+png 913 98424923 0 0
+svg 141 1415892 0 0
+html 622 6764847 0 0
+woff 174 3489320 0 0
+php 2935 51802423 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/wp-content/uploads/2018/04/astroseminar2018mar28.pdf 3 16 7094019
+/wp-content/plugins/visualizer/samples/pie.csv 1 0 75
+/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/sounds/end-flip.mp3 0 2 4702
+/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/sounds/start-flip.mp3 0 2 28736
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+Unknown 361 345
+ios_iphone 676 130
+win8 2 2
+macosx10 33 4
+ios_ipad 2 2
+win7 144 13
+win10 2476 523
+winxp 585 41
+macosx11 74 9
+macosx12 37 4
+linux 573 92
+macosx 6152 2728
+linuxandroid 379 36
+win8.1 32 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+chrome50.0.2661.86 1 1
+mozilla 2 2
+chrome67.0.3395.0 46 6
+chrome61.0.3163.98 1 1
+chrome49.0.2623.75 5 2
+firefox59.0 2276 1175
+chrome64.0.3282.137 36 4
+chrome65.0.3325.181 6378 2074
+chrome33.0.0.0 34 1
+safari5.0.4 585 41
+opera12.16 36 4
+safari11.1 115 17
+chrome66.0.3359.81 32 2
+chrome67.0.3396.0 108 16
+safari11.0 30 2
+edge16 64 4
+chrome56.0.2924.87 34 2
+Unknown 361 345
+chrome67.0.3392.0 85 18
+chrome67.0.3391.0 86 18
+vodafone 4 1
+safari11.0.3 75 9
+safari10.0 66 4
+chrome67.0.3393.0 208 30
+msie9.0 8 1
+chrome65.0.3325.109 237 23
+chrome64.0.3282.186 33 2
+iphone 576 123
+opera12.17 2 2
+msie10.0 1 1
+chrome40.0.2214.85 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+WordPress/4.9.5;_https://bhishanpoudel.ml 20180413030453
+Jetpack_by_WordPress.com 20180412152448
+WordPress.com;_https://bhishanpoudel.ml 20180407102430
+Photon/1.0 20180407102510
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Photon/1.0 20180407102510
+WordPress/4.9.5;_https://bhishanpoudel.ml 20180413030453
+Jetpack_by_WordPress.com 20180412152448
+WordPress.com;_https://bhishanpoudel.ml 20180407102430
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 113 144
+From1 2 2
+From2 4 4
+From3 221 475
+From4 3591 10901
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 3 3
+www_google_com_np 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 18
+http://m.facebook.com 126 126
+https://cpanel.bhishanpoudel.ml/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 32 32
+https://webmail.bhishanpoudel.ml/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 32 32
+https://www.facebook.com 14 14
+https://www.linkedin.com 5 5
+https://m.facebook.com 4 4
+https://l.facebook.com/l.php 2 4
+https://wordpress.com 1 1
+https://www.linkedin.com/feed/ 1 1
+https://lm.facebook.com/l.php 1 1
+https://l.facebook.com 1 1
+https://auth.updraftplus.com/auth/dropbox/ 1 1
+https://www.linkedin.com/feed/update/urn:li:activity:6389101386130345984/ 1 1
+https://cpanel.bhishanpoudel.ml/cPanel_magic_revision_1509994100/unprotected/cpanel/style_v2_optimized.css 0 56
+https://mail.bhishanpoudel.ml 0 92
+https://webmail.bhishanpoudel.ml/cPanel_magic_revision_1509994100/unprotected/cpanel/style_v2_optimized.css 0 56
+https://cpanel.bhishanpoudel.ml 0 24
+https://webmail.bhishanpoudel.ml 0 24
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+500 1 200
+404 18 160164
+206 12 2270983
+302 156 15224
+401 25 191372
+301 63 7404
+403 7 1476
+100 5 30743
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/.well-known/assetlinks.json 1 -
+/wp-admin/admin-ajax.php 5 https://bhishanpoudel.ml/wp-admin/customize.php
+/wp-content/uploads/2018/04/astro-1024x766.png 2 https://bhishanpoudel.ml
+/3d-flip-book/115/ 2 https://bhishanpoudel.ml/wp-admin/post.php
+/ 1 -
+/wp-adimin 1 -
+/rules/%5Bfp-link%20slug=%27ranking%27%5D 6 https://bhishanpoudel.ml
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 210
+74.140.74.136 1385 2843 74273414 20180407114319
+64.247.77.203 767 1674 31911190 20180411203045
+27.34.20.181 450 2077 30844090 20180407100845
+64.247.83.198 384 992 38462569 20180407202627
+198.252.107.62 335 356 806595 20180413030453
+64.247.74.8 100 277 5713754 20180409135546
+132.235.98.129 68 161 4406037 20180406124041
+27.34.104.50 45 128 13198625 20180409113541
+64.74.215.46 23 339 2529667 20180410234906
+64.74.215.88 18 246 1850197 20180410154945
+35.168.18.148 8 30 245286 20180409003317
+155.33.132.28 8 42 1314978 20180409132704
+52.90.206.207 8 29 244153 20180412014218
+132.235.24.239 8 41 809702 20180409061752
+131.183.182.239 7 37 733467 20180409070311
+52.3.255.19 6 47 772898 20180412014159
+27.34.21.240 6 35 724779 20180409111129
+27.34.104.112 6 35 689035 20180411055405
+107.77.207.184 6 37 1205790 20180409161605
+70.160.36.147 5 36 1176177 20180409184305
+24.158.242.83 5 36 716416 20180409081416
+132.235.55.123 5 37 706444 20180412153214
+73.250.72.72 5 68 1932752 20180409143519
+132.235.24.92 4 33 638370 20180409064547
+35.173.212.70 4 15 122643 20180409003333
+50.82.249.105 2 33 960277 20180410085251
+74.140.73.46 1 1 11307 20180409064755
+132.235.78.8 1 1 0 20180410084302
+129.237.98.34 2 33 1151582 20180409113451
+107.77.224.228 2 29 640357 20180409065821
+97.96.4.48 1 1 12279 20180409110442
+107.77.161.7 1 1 11303 20180409074359
+83.110.194.128 1 1 12262 20180410022657
+14.201.78.107 1 1 12262 20180409204314
+120.21.97.136 1 1 12287 20180409195812
+34.207.222.54 2 32 650258 20180412014203
+178.214.82.94 2 34 1170005 20180410023328
+67.149.78.187 1 1 11317 20180409075459
+107.21.69.246 2 27 640947 20180408213848
+126.35.215.10 1 1 12285 20180409203632
+202.70.74.212 1 1 12286 20180409121401
+131.94.186.12 2 33 1151584 20180409155725
+27.34.16.37 1 1 12280 20180409215437
+54.215.218.70 1 1 10001 20180408203432
+111.239.84.182 1 1 12275 20180409212217
+67.43.241.103 2 34 1051935 20180409065314
+142.116.186.35 1 1 12286 20180409202711
+74.195.233.65 1 1 12283 20180410061336
+208.107.213.169 1 1 11308 20180409070108
+78.101.174.26 1 1 11311 20180409065501
+66.220.156.151 1 2 22148 20180409064634
+109.130.88.92 2 33 960273 20180409105756
+172.58.143.253 1 1 0 20180410143050
+69.92.18.253 1 1 12291 20180409202133
+66.102.6.88 0 2 2156 
+202.70.70.194 1 17 374078 20180407044757
+120.18.209.254 1 1 12287 20180409161938
+76.98.72.146 1 1 12274 20180410041403
+121.148.155.29 3 3 36854 20180410020734
+99.183.192.181 1 1 11306 20180409071333
+59.102.107.110 1 1 11296 20180409070829
+54.87.56.168 2 17 337456 20180407033233
+130.184.252.78 1 1 12276 20180409145619
+173.252.92.247 0 14 625838 
+5.147.110.118 1 33 1140359 20180409201847
+75.188.97.139 4 36 1227137 20180409152603
+71.69.165.238 1 1 12274 20180409143027
+175.203.168.188 2 33 1151589 20180409175110
+132.235.76.4 1 1 12273 20180411085928
+49.244.242.87 1 1 12281 20180409212621
+220.240.78.162 1 1 12265 20180409172740
+61.68.115.224 1 1 12281 20180409170304
+202.51.76.80 2 32 637795 20180409033109
+163.47.151.93 1 1 11296 20180409065557
+75.188.18.220 1 1 12276 20180409105531
+69.171.240.22 0 4 16172 
+112.170.117.5 1 1 12283 20180409145638
+126.199.73.114 2 2 24564 20180409152917
+74.140.74.10 2 34 961366 20180410180723
+49.244.174.111 1 1 0 20180409212850
+14.34.111.4 1 1 12258 20180410063207
+111.239.161.254 1 1 12239 20180410075648
+54.165.240.123 4 15 122643 20180408213921
+66.220.156.147 0 8 342531 
+69.171.240.21 0 5 188970 
+66.102.6.193 2 3 12431 20180407200829
+73.121.29.59 2 33 1168937 20180409192948
+64.247.100.254 1 1 12286 20180409103203
+83.110.234.85 1 1 12286 20180409153208
+52.91.67.2 2 17 337465 20180407033252
+192.0.102.142 0 1 37766 
+73.114.135.165 1 1 12650 20180412204931
+65.113.225.218 1 1 12293 20180409110258
+66.220.156.149 0 4 14556 
+98.223.214.102 1 1 11310 20180409064915
+69.171.240.23 0 5 170482 
+64.106.111.132 1 32 1130198 20180409105146
+192.0.102.38 1 1 22 20180407102459
+132.235.24.217 4 37 770146 20180407175426
+24.26.136.226 1 1 12267 20180409175847
+107.242.113.1 1 2 185722 20180409064902
+222.104.234.176 1 1 12278 20180409153425
+110.34.0.214 1 1 12281 20180409175258
+75.22.102.94 1 2 185719 20180409082305
+72.182.228.182 1 1 11305 20180409065914
+107.77.173.7 2 2 24551 20180409160532
+113.199.160.96 1 1 12282 20180409182637
+132.235.118.129 1 1 12251 20180410114752
+84.192.115.99 2 2 24575 20180410005547
+192.0.116.145 1 1 638 20180410114805
+66.220.156.146 1 7 205003 20180409064631
+27.34.49.189 1 35 1453881 20180410055457
+192.0.101.206 1 1 22 20180407102459
+192.0.113.148 1 1 164 20180407102425
+49.183.149.46 2 2 24560 20180409205528
+110.44.116.66 4 56 1588142 20180411023519
+173.252.92.245 0 10 204965 
+192.0.113.239 1 1 640 20180412152448
+202.166.216.41 1 1 12283 20180409211612
+192.0.112.211 1 1 9242 20180407102430
+103.28.86.5 1 1 11306 20180409070849
+34.228.59.92 2 27 640933 20180408213837
+66.220.151.210 0 1 264337 
+58.179.97.169 1 1 12300 20180410003655
+66.220.156.145 0 2 35307 
+120.18.160.233 2 5 721148 20180410024551
+69.171.240.16 1 12 225406 20180409064611
+52.23.243.91 4 14 121510 20180408213854
+74.113.40.43 2 2 23590 20180410060223
+34.229.84.222 4 14 121510 20180407033302
+54.227.233.121 4 15 122643 20180408213730
+68.13.243.238 2 33 960283 20180409132119
+192.0.99.161 1 1 171 20180407102437
+64.247.64.7 1 1 12288 20180409112515
+54.242.144.163 2 17 337454 20180407033245
+86.19.238.166 1 1 11302 20180409081505
+27.34.20.235 3 35 672794 20180409020059
+122.249.71.78 1 1 12290 20180410063458
+116.66.197.134 1 1 11303 20180409071215
+94.197.120.37 1 1 12282 20180411052816
+192.0.112.208 1 1 642 20180407102452
+34.229.218.243 4 7 181392 20180407033151
+94.68.10.80 1 1 1608 20180408232247
+107.15.77.207 1 1 11319 20180409071302
+75.188.101.29 1 1 11317 20180409065506
+54.92.224.230 2 27 640953 20180409003408
+34.229.82.124 4 14 121510 20180409003445
+34.228.255.38 2 32 650257 20180412014159
+69.176.140.160 2 2 24547 20180410165336
+94.68.11.207 1 1 1676 20180413002729
+64.247.68.22 2 35 1417004 20180409103844
+138.16.120.159 1 34 1157154 20180409104820
+99.41.195.61 1 1 12267 20180410172209
+35.172.129.96 4 14 121510 20180408214155
+34.201.112.22 4 14 121510 20180409003500
+94.62.67.209 1 1 12296 20180409164723
+69.171.251.20 0 1 146969 
+64.247.103.238 1 1 12275 20180409105933
+66.220.156.144 0 7 6614 
+192.0.102.120 0 1 37766 
+74.140.74.35 2 33 1168936 20180410052906
+14.203.68.212 1 1 12262 20180410030103
+54.161.113.175 2 27 640951 20180408213806
+141.168.21.55 1 1 12283 20180409202037
+72.207.229.241 1 1 12285 20180409133051
+98.29.224.186 1 1 12283 20180409193745
+14.200.216.157 2 2 24562 20180409123548
+181.161.162.27 1 1 12273 20180409185507
+86.62.198.186 1 4 163840 20180409211520
+129.244.40.35 1 1 11298 20180409084345
+198.30.180.98 1 1 11311 20180409072923
+131.247.208.248 2 33 1151582 20180409132059
+126.159.253.153 1 1 11298 20180409075601
+192.0.113.116 1 1 305 20180407102448
+141.0.12.20 4 36 1198616 20180410015150
+54.165.139.131 2 27 640929 20180409003352
+35.171.154.76 4 14 121510 20180412014159
+116.75.91.106 1 33 1157748 20180409212359
+172.124.18.129 2 33 960284 20180409171536
+173.252.92.243 1 1 12324 20180409095748
+49.244.196.31 1 1 12256 20180410052746
+35.153.255.2 2 27 640950 20180409003550
+162.232.220.83 2 29 640365 20180409065715
+64.247.91.227 3 32 693935 20180409073201
+162.82.0.211 1 1 12285 20180410031532
+27.34.70.0 1 34 1188036 20180409235212
+54.82.212.171 4 14 121510 20180407033232
+73.172.207.82 1 1 12238 20180409191023
+69.171.240.17 1 4 25150 20180409064613
+192.0.116.80 1 1 642 20180408140610
+14.200.245.26 1 1 12282 20180409204521
+174.60.168.162 1 1 11315 20180409065448
+220.240.78.194 2 59 1021766 20180410010107
+64.247.76.106 1 1 11311 20180409085106
+67.149.175.49 1 1 12282 20180409155530
+99.109.58.71 1 1 12263 20180409185900
+113.199.251.69 1 1 11319 20180409073953
+41.191.107.146 2 6 443753 20180409230737
+76.181.20.51 1 33 1140365 20180409192313
+62.44.135.6 2 29 640361 20180409065649
+128.119.151.47 3 35 1167692 20180409203641
+66.65.14.2 2 2 23590 20180409112402
+156.110.35.115 1 1 12264 20180409125159
+27.34.104.250 1 1 12277 20180409215240
+192.0.116.239 1 1 640 20180411143647
+129.174.182.29 4 66 1982314 20180409153509
+27.34.104.157 1 1 12283 20180410042016
+27.34.20.47 1 1 12275 20180409181916
+132.235.79.115 1 1 12237 20180409155929
+173.252.92.244 1 8 308477 20180409095751
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20180406 1198 3506 57954188 7
+20180407 1242 2848 93512506 26
+20180408 32 160 2546031 13
+20180409 462 2056 61598600 133
+20180410 114 910 13269712 38
+20180411 845 1823 41175169 11
+20180412 35 200 3159888 12
+20180413 3 3 1676 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 17
+2mn-5mn 5
+30mn-1h 6
+30s-2mn 9
+15mn-30mn 6
+0s-30s 187
+5mn-15mn 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 87
+/wp-admin/admin-ajax.php 1410 1221573 2 5
+/ 345 3347561 30 17
+/wp-cron.php 286 0 34 34
+/wp-admin/load-scripts.php 283 21134518 0 0
+/wp-admin/load-styles.php 211 14739208 0 1
+/wp-json/jetpack/v4/jitm 138 4174 0 1
+/computer/ 135 1617449 108 88
+/wp-admin/admin.php 119 795541 0 3
+/index.php 103 48877 0 0
+/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco/monaco-webfont.woff 72 1538784 3 34
+/wp-admin/post.php 71 3533700 0 0
+/wp-admin/themes.php 58 1139567 0 0
+/wp-admin/customize.php 48 3536583 0 0
+/wp-admin/theme-editor.php 47 1421683 0 0
+/wp-login.php 44 62437 5 2
+/hello-world/ 38 429668 34 28
+/wp-admin/plugins.php 36 832259 0 0
+/wp-admin/plugin-install.php 36 715930 0 0
+/wp-admin/edit.php 31 473427 0 0
+/wp-admin/ 28 576712 1 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 22 384648 0 0
+/wp-includes/fonts/dashicons.eot 20 204168 0 0
+/wp-admin/options-general.php 19 378887 0 0
+/wp-admin/theme-install.php 17 222666 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 17 16896 0 0
+/wp-content/themes/destin-basic/library/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 15 336480 0 4
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.ttf 1 39476 1 0
+/wpcontents/themes/functions.php/ 1 14031 0 0
+/xmlrpc.php 8 3842 8 8
+/wp-admin/upload.php 6 169318 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 15 343620 5 1
+/wp-admin/post-new.php 8 379131 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 15 339900 8 1
+/astroseminar2018spring/ 1 17032 0 0
+/about-me/ 10 93495 0 4
+/wp-admin/edit-tags.php 4 53673 0 0
+/wp-content/themes/coral-dark/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-admin/async-upload.php 15 9343 0 0
+/category/uncategorized/ 1 8456 0 0
+/wp-content/themes/hitchcock/fa/fonts/fontawesome-webfont.woff2 2 113560 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.ttf 1 38452 0 0
+/wp-json/yoast/v1/ryte 5 530 0 0
+/wp-admin/users.php 2 19469 0 0
+/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/wp-admin/import.php 1 9777 0 0
+/wpcontents/themes/ 1 14032 0 0
+/wp-admin/options-writing.php 5 50523 0 0
+/cpanel 2 26581 0 0
+/wp-content/themes/oblique/webfonts/fa-solid-900.woff2 3 88008 0 0
+/tag/ssh/ 2 16578 0 1
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.ttf 1 40252 0 0
+/wp-admin/update.php 16 111276 0 0
+/wp-content/themes/klean-blog/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff 15 356460 0 7
+/wp-content/themes/suevafree/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/author/admin/ 2 19614 0 0
+/wp-content/themes/wind/core/fonts/fontawesome-webfont.woff 1 83760 0 0
+/wpcontents/ 2 19958 0 1
+/wp-admin/plugin-editor.php 2 26006 0 0
+/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/assets/templates/default-book-view.html 5 1898 0 0
+/wp-admin/media-new.php 1 8188 0 0
+/wp-admin/options-permalink.php 4 46906 0 0
+/wp-json/yoast/v1/statistics 5 1315 0 0
+/wp-admin/edit-comments.php 1 20168 0 0
+/wp-admin/comment.php 1 16288 0 0
+/using-bash_profile-in-macos/ 7 99789 1 0
+/wp-json/wp/v2/ 5 28895 0 0
+/wp-admin/profile.php 15 201083 0 0
+/wp-admin/tools.php 1 7133 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.ttf 1 38232 0 1
+/wp-admin/admin-post.php 1 1302 0 0
+/category/computer/ 8 81694 1 0
+/wp-admin/nav-menus.php 11 184696 0 0
+/sitemap_index.xml 12 5553 0 0
+/wp-content/themes/temauno/font-awesome/fonts/fontawesome-webfont.woff 1 65452 0 0
+/practice/ 14 218007 0 0
+/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco/monaco-webfont.ttf 1 34812 0 0
+/wp-admin/options-reading.php 2 20359 0 0
+/category/blog/ 9 70112 1 1
+/wp-content/themes/radar/inc/bootstrap/bs-dist/fonts/glyphicons-halflings-regular.woff 1 23320 0 0
+/create-a-new-file-in-mac-finder/ 6 70658 1 1
+/wp-content/themes/flat/assets/fonts/fontawesome-webfont.woff2 2 113560 0 0
+/wp-admin/about.php 1 11114 0 0
+/wp-admin/index.php 10 188276 0 0
+/wp-admin/options-media.php 1 7696 0 0
+/sitemap_index.xml/ 2 19208 0 0
+END_SIDER

@@ -1,0 +1,43 @@
+== Changelog ==
+
+= 1.1.4 =
+* Changed core meta box to php class
+* Changed Image/Attachment template
+* Changed widget area class
+* Changed .featured-image style
+* Fixed valiation errors on header and meta
+
+= 1.1.3 =
+* Bug Fixes
+* Social Links
+
+= 1.1.2 =
+* Option to hide design credit
+* Carousel Sliders
+
+= 1.1.1 =
+* Simplify post meta's html
+* Move the edit link on top left corner of the post
+* Fixed Logo upload issue in Theme Options
+* Change all images on screenshot
+* Fix responsive menu issue
+* Updated screenshot to Dark Scheme
+* wind.css Reformat for easier reading
+* Add missing gallery html5 style
+
+= 1.0.8 =
+* Jetpack Sharing Integration
+* Search box on topbar
+* Section Menu
+* Dark Color Scheme
+
+= 1.0.6 =
+* Bootrap Buttons
+* Customize Fonts
+
+= 1.0.3 =
+* Widgets: Wind Recent Posts and Wind Navigation
+* bbPress integration
+
+= 1.0.0 =
+* Initial release

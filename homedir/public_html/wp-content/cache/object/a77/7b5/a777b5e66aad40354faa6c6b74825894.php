@@ -1,0 +1,1 @@
+îóÑZ<?php exit; ?>a:1:{s:7:"content";s:212:"{"success":true,"license":"invalid","item_name":"WP+Hide+Post+Pro","expires":false,"payment_id":false,"customer_name":" ","customer_email":null,"license_limit":false,"site_count":0,"activations_left":"unlimited"}";}

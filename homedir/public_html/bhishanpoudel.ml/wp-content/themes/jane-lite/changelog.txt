@@ -1,0 +1,5 @@
+Jane Lite Changelog
+
+- Version 1.0.0 - Released: 20.02.2018
+
+-- Initial version.

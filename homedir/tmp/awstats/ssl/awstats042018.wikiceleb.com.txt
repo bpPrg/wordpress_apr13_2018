@@ -1,0 +1,455 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /home/wikicele/tmp/awstats/ssl/awstats.wikiceleb.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2695                
+POS_VISITOR 7894                
+POS_DAY 11190               
+POS_DOMAIN 3493                
+POS_LOGIN 3823                
+POS_ROBOT 3978                
+POS_WORMS 4469                
+POS_EMAILSENDER 4600                
+POS_EMAILRECEIVER 4743                
+POS_SESSION 11573               
+POS_SIDER 11781               
+POS_FILETYPES 4878                
+POS_DOWNLOADS 5152                
+POS_OS 5219                
+POS_BROWSER 5452                
+POS_SCREENSIZE 5962                
+POS_UNKNOWNREFERER 6036                
+POS_UNKNOWNREFERERBROWSER 6456                
+POS_ORIGIN 6756                
+POS_SEREFERRALS 6893                
+POS_PAGEREFS 7089                
+POS_SEARCHWORDS 7268                
+POS_KEYWORDS 7420                
+POS_MISC 2359                
+POS_ERRORS 7479                
+POS_CLUSTER 3679                
+POS_SIDER_404 7585                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180413043752 122 25536 9237182209181
+FirstTime 20180401023745
+LastTime 20180413033134
+LastUpdate 20180413060050 122 0 122 0 0
+TotalVisits 124                 
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 117                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 2 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 18 444745 16 26 221836
+1 8 14 388315 10 28 230755
+2 5 22 460832 9 34 646739
+3 15 21 210777 20 57 647138
+4 9 12 248450 12 49 864500
+5 14 32 962740 24 74 1129494
+6 9 16 2298209 20 65 1286194
+7 14 18 1118061 18 47 669385
+8 16 49 1629414 21 46 418722
+9 12 48 1202967 12 25 199904
+10 7 9 119962 20 56 629254
+11 11 27 307592 15 22 118842
+12 14 68 1136144 17 50 672771
+13 9 12 246880 13 24 289966
+14 9 10 97365 11 35 515314
+15 7 9 159069 8 32 817943
+16 7 11 350481 8 25 530125
+17 7 9 68396 9 17 386245
+18 17 19 522085 22 57 1115067
+19 8 9 77944 11 56 891443
+20 9 58 1817100 8 22 972239
+21 9 17 172934 13 37 391415
+22 17 80 9451662 17 35 475027
+23 12 28 819206 13 32 526913
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+ca 228 253 466221
+us 15 272 23171942
+au 4 35 247588
+de 3 3 8503
+sb 2 27 204620
+ae 2 24 190668
+fr 1 1 11999
+my 1 1 9789
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bingbot/ 500 9726498 20180413033132 44
+Googlebot/ 165 887780 20180412233128 9
+bingpreview 94 2432937 20180413041741 0
+bot[\s_+:,\.\;\/\\-] 28 482781 20180411185629 0
+AhrefsBot/ 26 245360 20180413043752 4
+unknown 18 1190 20180409134146 18
+YandexBot/ 12 55315 20180411121845 6
+Googlebot\-Image/ 6 410084 20180412160943 0
+no_user_agent 3 157417 20180411181513 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+woff2 3 193392 0 0
+js 98 525119 0 0
+eot 1 22760 0 0
+php 224 21 0 0
+gif 5 291679 0 0
+jpeg 1 76361 0 0
+txt 25 1000 0 0
+html 28 276984 0 0
+png 14 949619 0 0
+jpg 144 21436895 0 0
+css 68 497931 0 0
+svg 5 39569 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ads.txt 58 0 2320
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 25 2
+macosx12 3 3
+macosx9 3 0
+macosx7 1 0
+win10 130 13
+winxp 1 1
+ios_ipad 1 0
+macosx10 2 1
+Unknown 381 226
+winlong 14 1
+win8.1 3 1
+win8 1 1
+win7 48 7
+linux 3 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+chrome65.0.3325.181 87 7
+edge14 27 2
+chrome65.0.3325.146 1 1
+mozilla 1 1
+firefox31.0 1 0
+chrome41.0.2227.0 3 0
+firefox33.0 1 0
+chrome62.0.3202.94 2 2
+opera8.50 1 1
+safari6.0 1 0
+firefox19.0 1 1
+edge16 25 3
+chrome61.0.3163.100 15 3
+safari7.0.3 3 0
+msie9.0 42 3
+chrome41.0.2228.0 1 0
+chrome40.0.2214.85 2 2
+chrome34.0.1847.137 1 1
+chrome28.0.1464.0 1 1
+chrome41.0.2226.0 2 0
+Unknown 380 225
+firefox59.0 1 0
+chrome52.0.2743.116 1 1
+safari5.1.3 1 0
+msie11.0 15 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Softaculous 20180406113321
+WordPress/4.9.4;_https://wikiceleb.com/wp 20180404140448
+Photon/1.0 20180413013902
+WordPress/4.9.4;_https://wikiceleb.com 20180403145031
+WordPress/4.9.5;_https://wikiceleb.com 20180413033134
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20180401032116
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Softaculous 20180406113321
+WordPress/4.9.4;_https://wikiceleb.com/wp 20180404140448
+Photon/1.0 20180413013902
+WordPress/4.9.4;_https://wikiceleb.com 20180403145031
+WordPress/4.9.5;_https://wikiceleb.com 20180413033134
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 192
+From1 0 0
+From2 6 8
+From3 1 1
+From4 237 415
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+duckduckgo 2 2
+bing 4 4
+images_search_yahoo_com 0 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://198.252.107.62:443 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 2 0
+401 8 247869
+301 87 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 117
+198.252.107.62 225 225 45738 20180413033134
+1.40.112.48 4 35 247588 20180404222821
+54.183.165.74 3 3 29202 20180412152728
+159.89.114.198 2 2 0 20180401083612
+83.110.147.123 2 24 190668 20180404092544
+138.246.253.19 2 2 0 20180411231449
+202.1.168.144 2 27 204620 20180410203129
+107.172.134.215 2 2 21530 20180406121610
+170.250.107.121 2 25 191568 20180407123311
+99.248.97.202 1 26 420483 20180410083924
+104.144.206.111 1 1 9611 20180403200012
+204.79.180.6 1 3 28594 20180408234054
+176.31.64.186 1 1 11999 20180405030745
+210.48.156.229 1 1 9789 20180403190029
+166.123.216.61 1 14 124866 20180404121913
+54.183.132.27 1 1 0 20180410071749
+204.79.180.11 1 2 9803 20180405050109
+204.79.180.4 1 2 13770 20180405115757
+137.226.113.27 1 1 8503 20180401032116
+198.55.110.196 1 1 8586 20180407135214
+96.127.158.235 1 1 8586 20180408083331
+192.0.100.226 0 1 100551 
+192.0.99.59 0 1 124570 
+204.79.180.7 0 3 11908 
+192.0.118.145 0 1 27078 
+192.0.116.180 0 1 70897 
+192.0.102.70 0 1 30050 
+192.0.118.17 0 2 203261 
+192.0.100.155 0 1 87263 
+204.79.180.13 0 2 39893 
+192.0.100.83 0 2 193944 
+192.0.102.142 0 2 142573 
+192.0.101.166 0 1 68187 
+73.19.18.246 0 1 442389 
+192.0.112.50 0 1 77026 
+192.0.102.90 0 4 130420 
+204.79.180.2 0 2 514 
+192.0.100.154 0 3 107852 
+192.0.118.212 0 2 128215 
+192.0.100.107 0 1 125380 
+192.0.112.244 0 3 561063 
+192.0.112.177 0 1 78093 
+192.0.99.250 0 1 50881 
+204.79.180.19 0 1 23227 
+192.0.99.106 0 2 175747 
+192.0.116.212 0 1 69930 
+192.0.102.144 0 3 348974 
+192.0.114.20 0 2 244230 
+192.0.101.238 0 4 1105936 
+192.0.114.84 0 1 3055 
+192.0.102.68 0 2 489694 
+192.0.113.52 0 1 640702 
+104.196.39.49 0 12 480 
+192.0.102.50 0 2 503107 
+192.0.101.216 0 1 125655 
+192.0.102.120 0 2 93079 
+192.0.113.20 0 4 1606937 
+192.0.118.209 0 4 1277319 
+192.0.118.81 0 6 1199510 
+192.0.101.58 0 1 68600 
+192.0.102.140 0 1 87263 
+204.79.180.9 0 2 53502 
+192.0.102.66 0 2 154714 
+192.0.101.35 0 1 34990 
+192.0.100.131 0 1 63343 
+192.0.102.72 0 3 106591 
+192.0.99.107 0 1 50145 
+192.0.101.168 0 2 136310 
+192.0.101.59 0 2 248538 
+192.0.102.24 0 5 688202 
+192.0.100.227 0 2 127269 
+192.0.114.113 0 1 236685 
+192.0.118.148 0 2 73468 
+192.0.99.179 0 5 369093 
+192.0.112.210 0 4 1375852 
+192.0.118.116 0 2 1041168 
+192.0.112.212 0 2 645721 
+192.0.112.113 0 1 68600 
+192.0.113.241 0 4 1236554 
+192.0.114.82 0 1 68237 
+192.0.99.11 0 1 68237 
+204.79.180.1 0 2 29279 
+204.79.180.23 0 2 4649 
+192.0.112.241 0 1 100551 
+192.0.99.35 0 2 174045 
+192.0.112.147 0 3 223145 
+204.79.180.5 0 1 346 
+204.79.180.3 0 1 1771 
+192.0.112.82 0 2 73752 
+192.0.102.118 0 3 92080 
+204.79.180.14 0 1 458 
+192.0.102.96 0 1 73013 
+205.201.28.4 0 1 442389 
+192.0.100.35 0 1 83686 
+192.0.113.49 0 3 809682 
+204.79.180.15 0 2 38411 
+204.79.180.16 0 4 16860 
+192.0.99.131 0 2 90600 
+192.0.100.59 0 1 173199 
+192.0.101.240 0 3 117543 
+192.0.100.179 0 4 163267 
+204.79.180.8 0 2 7299 
+52.36.95.189 0 13 520 
+192.0.116.148 0 4 611515 
+192.0.101.142 0 5 331471 
+192.0.101.192 0 2 191071 
+204.79.180.21 0 4 6789 
+204.79.180.22 0 3 66937 
+204.79.180.10 0 2 14581 
+192.0.101.190 0 1 28513 
+192.0.102.114 0 2 150493 
+192.0.118.180 0 1 358933 
+192.0.101.83 0 1 64327 
+204.79.180.18 0 1 1771 
+192.0.113.18 0 2 305186 
+192.0.116.177 0 1 73013 
+192.0.101.144 0 2 92009 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20180401 23 30 208442 10
+20180402 16 25 703444 7
+20180403 20 30 3096385 12
+20180404 22 142 11938648 12
+20180405 21 58 810287 12
+20180406 24 29 279294 10
+20180407 21 65 1593459 10
+20180408 22 43 716786 11
+20180409 12 19 331340 6
+20180410 23 101 3033746 13
+20180411 22 31 346169 10
+20180412 26 37 1180381 9
+20180413 4 6 72949 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 17
+5mn-15mn 9
+30s-2mn 4
+15mn-30mn 8
+0s-30s 60
+2mn-5mn 1
+30mn-1h 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/wp-cron.php 223 0 101 100
+/ 13 109179 11 10
+/top-11-strikers-2018-fifa-world-cup-russia/ 5 59455 5 3
+/wp-content/themes/awaken/fonts/fontawesome-webfont.woff2 3 193392 0 2
+/marshmello-bad-happened-club-deja-vu-brought-rubble/ 3 31141 2 2
+/top-11-best-central-midfielder-in-2018-fifa-world-cup-russia/ 1 9789 1 1
+/top-11-best-centre-backs-in-2018-fifa-world-cup-russia/ 1 11612 1 0
+/brie-larson-career-upcoming-projects-personal-life-achievements-networth/ 1 11999 1 1
+/scarlett-johansson-career-upcoming-projects-personal-life-achievements-net-worth/ 1 12058 0 0
+/wp-content/themes/meditation/genericons/genericons/Genericons.eot 1 22760 0 1
+/gallery/ 1 9299 0 1
+/bert-kreischer-wife-leann-kreischer-how-rich-is-bert-kreischer/ 1 13135 1 1
+/portugal-road-russia-fifa-world-cup-2018/ 1 9317 1 1
+/wp/wp-admin/upgrade.php 1 21 0 1
+END_SIDER

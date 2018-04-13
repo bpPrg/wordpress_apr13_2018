@@ -1,0 +1,26 @@
+9ÚÐZ<?php exit; ?>a:1:{s:7:"content";C:24:"WPSEO_Sitemap_Cache_Data":878:{a:2:{s:6:"status";s:2:"ok";s:3:"xml";s:831:"<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://wikiceleb.com/post-sitemap.xml</loc>
+		<lastmod>2018-04-11T21:07:20+05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://wikiceleb.com/page-sitemap.xml</loc>
+		<lastmod>2018-02-02T20:37:54+05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://wikiceleb.com/content_ad_widget-sitemap.xml</loc>
+		<lastmod>2018-02-25T10:13:27+05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://wikiceleb.com/category-sitemap.xml</loc>
+		<lastmod>2018-04-09T14:13:17+05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://wikiceleb.com/post_tag-sitemap.xml</loc>
+		<lastmod>2018-04-09T14:13:17+05:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://wikiceleb.com/author-sitemap.xml</loc>
+		<lastmod>2018-04-09T23:15:21+05:00</lastmod>
+	</sitemap>
+</sitemapindex>";}}}

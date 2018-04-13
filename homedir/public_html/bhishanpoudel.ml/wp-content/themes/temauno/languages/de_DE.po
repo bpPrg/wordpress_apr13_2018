@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: temauno\n"
+"POT-Creation-Date: 2015-01-27 16:32+0100\n"
+"PO-Revision-Date: 2015-01-27 16:43+0100\n"
+"Last-Translator: Antonio Sánchez <antonio@antsanchez.com>\n"
+"Language-Team: Antonio Sánchez <antonio@antsanchez.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Das Seite kann nicht gefunden werden."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Es sieht aus wie nichts an diesem Ort gefunden würde. Vielleicht versuchen "
+"Sie einen der Links unten oder der Suche?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Die meisten Gebraucht Kategorien"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuchen Sie es in der monatlichen Archiven. %1$s"
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Kommentar Navigation"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "%larr; ältere Kommentare"
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "nichts gefunden"
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit, den ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">hier</a> "
+"erste Schritte."
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid, aber nichts pass Sie Ihre Suchbegriffe ein. Bitte versuchen "
+"Sie es mit anderen Schlüsselwörtern."
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, dass wir nicht finden, was Sie suchen. Vielleicht suchen helfen "
+"können."
+
+#: content-page.php:25 content-single.php:31 content.php:29
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-page.php:32
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content-search.php:26 content.php:25
+msgid "Continue Reading"
+msgstr "Weiterlesen"
+
+#: footer.php:18
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:20
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: functions.php:94
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:96
+msgid "Sidebar Widget Area"
+msgstr "Sidebar Widget Area"
+
+#: functions.php:103
+#, php-format
+msgid "Footer %d"
+msgstr "Footer %d"
+
+#: functions.php:104
+msgid "Footer Widget Areas"
+msgstr "Footer Widget Areas"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Direkt zum Inhalt"
+
+#: inc/customizer.php:24
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: inc/customizer.php:35
+msgid "Color for links"
+msgstr "Farbe für Links"
+
+#: inc/customizer.php:46
+msgid "Visited Links color"
+msgstr "Besuchte Links Farbe"
+
+#: inc/customizer.php:57
+msgid "Link color when mouse is hover"
+msgstr "Link-Farbe, wenn die Maus über ist"
+
+#: inc/customizer.php:68
+msgid "Menu Links Color"
+msgstr "Menülinks Farbe"
+
+#: inc/customizer.php:79
+msgid "Menu color"
+msgstr "Menü Farbe"
+
+#: inc/customizer.php:90
+msgid "Menu color when mouse is hover"
+msgstr "Menü Farbe, wenn die Maus über ist"
+
+#: inc/customizer.php:99
+msgid "Fonts"
+msgstr "Schriftarten"
+
+#: inc/customizer.php:141
+msgid "Select fonts for the headings."
+msgstr "Wählen Sie die Schriftarten für den Header"
+
+#: inc/customizer.php:159
+msgid "Select fonts for the body."
+msgstr "Wählen Sie die Schriftarten für den Körper."
+
+#: inc/customizer.php:167
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: inc/customizer.php:168
+msgid ""
+"Fill in the fields you wish to show with his correspondent url. For "
+"instance, for Twitter: https://twitter.com/your_username"
+msgstr ""
+"Füllen Sie die Felder aus, die mit seinem Korrespondenten URL anzuzeigen "
+"möchten. Zum Beispiel für Twitter: https://twitter.com/your_username"
+
+#: inc/extras.php:93
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Beiträge Navigation"
+
+#: inc/template-tags.php:25
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-left\"></i></span> "
+"Older posts"
+msgstr ""
+"<span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-left\"></i></span>  "
+"ältere Beiträge"
+
+#: inc/template-tags.php:29
+msgid ""
+"Newer posts <span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-right\"></"
+"i></span>"
+msgstr ""
+"neuere Beiträge <span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-right"
+"\"></i></span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Artikelnavigation"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-left\"></i></"
+"span>&nbsp;%title"
+msgstr ""
+"<span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-left\"></i></"
+"span>&nbsp;%title"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid ""
+"%title&nbsp;<span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-right\"></"
+"i></span>"
+msgstr ""
+"%title&nbsp;<span class=\"meta-nav\"><i class=\"fa fa-arrow-circle-right\"></"
+"i></span>"
+
+#: inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:105 inc/template-tags.php:111
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:107
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:113
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:119
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: inc/template-tags.php:119
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: inc/template-tags.php:119
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: inc/template-tags.php:140
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:142
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:144
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:146
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:146
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:148
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:148
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:150
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:174
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid "Archives"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

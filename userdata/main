@@ -1,0 +1,12 @@
+--- 
+addon_domains: 
+  bhishanpoudel.com: bhishanpoudel1.wikiceleb.com
+  bhishanpoudel.ml: bhishanpoudel.wikiceleb.com
+  fromnepal.tk: fromnepal.wikiceleb.com
+main_domain: wikiceleb.com
+parked_domains: []
+
+sub_domains: 
+  - fromnepal.wikiceleb.com
+  - bhishanpoudel.wikiceleb.com
+  - bhishanpoudel1.wikiceleb.com

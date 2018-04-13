@@ -1,0 +1,548 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201802 will be lost/reset.
+# Last config file used to build this data file was /home/wikicele/tmp/awstats/ssl/awstats.wikiceleb.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2694                
+POS_VISITOR 9008                
+POS_DAY 13134               
+POS_DOMAIN 3521                
+POS_LOGIN 3903                
+POS_ROBOT 4058                
+POS_WORMS 4690                
+POS_EMAILSENDER 4821                
+POS_EMAILRECEIVER 4964                
+POS_SESSION 13873               
+POS_SIDER 14084               
+POS_FILETYPES 5099                
+POS_DOWNLOADS 5362                
+POS_OS 5429                
+POS_BROWSER 5686                
+POS_SCREENSIZE 6206                
+POS_UNKNOWNREFERER 6280                
+POS_UNKNOWNREFERERBROWSER 6769                
+POS_ORIGIN 7140                
+POS_SEREFERRALS 7279                
+POS_PAGEREFS 7502                
+POS_SEARCHWORDS 7681                
+POS_KEYWORDS 8002                
+POS_MISC 2357                
+POS_ERRORS 8194                
+POS_CLUSTER 3759                
+POS_SIDER_404 8315                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180301003529 62 12725 11277853135069
+FirstTime 20180201015042
+LastTime 20180228234232
+LastUpdate 20180301044449 62 0 61 0 0
+TotalVisits 322                 
+TotalUnique 46                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 136                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 21 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 33 68 381533 44 95 1861385
+1 14 36 181770 29 95 2021182
+2 19 19 24760 30 73 2198621
+3 13 14 40 19 60 2107848
+4 29 29 31727 36 59 1818388
+5 24 36 174385 32 64 2218372
+6 27 27 9457 40 84 1675145
+7 30 46 254434 47 92 1987346
+8 32 32 0 46 93 1315929
+9 42 85 2834246 63 118 1806791
+10 36 36 44531 46 79 2588957
+11 44 131 4584807 47 70 1007194
+12 32 43 2607649 30 55 659168
+13 20 54 1065021 23 58 381822
+14 35 143 2347117 33 58 1381615
+15 23 78 1397382 26 55 790701
+16 26 42 1696441 41 77 1916807
+17 29 54 2058128 37 121 2063926
+18 23 24 87566 35 84 1793368
+19 24 53 710595 46 102 4391293
+20 38 69 2258709 29 65 659266
+21 13 31 131165 21 51 1315793
+22 19 44 346888 30 81 1182566
+23 20 20 0 26 71 1406472
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+ca 516 516 1118513
+us 80 428 15636111
+gb 26 119 5186192
+br 6 6 61335
+de 4 42 284294
+fr 4 4 18928
+rs 3 25 201510
+ng 2 25 246879
+tr 2 24 223602
+hk 2 24 222228
+cn 0 1 28759
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bingbot/ 1267 29751612 20180228234231 71
+bingpreview 201 9536501 20180228053545 0
+Googlebot/ 115 98373 20180228110227 46
+YandexBot/ 31 117344 20180228174623 17
+bot[\s_+:,\.\;\/\\-] 15 203025 20180225103815 0
+unknown 10 700 20180225103812 10
+no_user_agent 8 341855 20180227084618 0
+Googlebot\-Image/ 5 66816 20180224083828 0
+proximic 3 28766 20180214203740 0
+360Spider 3 29535 20180208193015 0
+curl 2 85433 20180211114513 0
+crawl 2 9212 20180215010856 0
+Mediapartners-Google 2 27838 20180202175441 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+php 510 1172 0 0
+ttf 35 7298144 0 0
+txt 8 320 0 0
+css 127 1215017 0 0
+js 234 1215060 0 0
+png 1 37657 0 0
+svg 10 79138 0 0
+html 90 877639 0 0
+woff2 8 515712 0 0
+jpg 189 11850742 0 0
+eot 2 137750 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ads.txt 53 0 2120
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+ios_iphone 47 20
+linuxandroid 27 12
+macosx12 11 11
+macosx11 3 3
+winxp 2 2
+win8.1 26 4
+winphone 18 6
+linux 48 10
+win7 145 30
+ios_ipad 8 8
+Unknown 648 512
+win2003 1 0
+winlong 46 3
+win10 184 24
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+msie9.0 121 8
+firefox50.0 40 2
+chrome40.0.2214.85 1 1
+safari11.0.2 2 2
+chrome63.0.3239.108 9 9
+android 21 6
+opera49.0.2725.64 2 2
+chrome61.0.3163.100 13 7
+edge16 74 8
+opera8.50 2 2
+firefox52.0 6 6
+safari11.0 22 7
+Unknown 647 511
+safari10.0 25 13
+edge15 42 8
+safari 8 8
+msie7.0 1 0
+mozilla 1 1
+chrome63.0.3239.132 54 10
+chrome34.0.1847.137 2 2
+chrome63.0.3239.111 6 6
+chrome63.0.3239.84 7 7
+chrome64.0.3282.167 26 4
+firefox58.0 25 2
+chrome62.0.3202.94 5 5
+msie11.0 52 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Photon/1.0 20180227002853
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12l;__http://researchscan.comsys.rwth-aachen.de) 20180204115723
+WordPress/4.9.4;_https://wikiceleb.com 20180228234232
+WordPress/4.9.3;_https://wikiceleb.com 20180206125236
+Go-http-client/1.1 20180216033932
+WordPress/4.9.2;_https://wikiceleb.com 20180205112801
+Jetpack_by_WordPress.com 20180223104816
+Softaculous 20180223204522
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Photon/1.0 20180227002853
+Go-http-client/1.1 20180216033932
+WordPress/4.9.3;_https://wikiceleb.com 20180206125236
+Softaculous 20180223204522
+WordPress/4.9.2;_https://wikiceleb.com 20180205112801
+WordPress/4.9.4;_https://wikiceleb.com 20180228234232
+Jetpack_by_WordPress.com 20180223104816
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 45 227
+From1 0 0
+From2 21 21
+From3 1 1
+From4 578 965
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+r_search_yahoo_com 2 2
+us_search_yahoo_com 2 2
+search_yahoo_com 4 4
+bing 13 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://198.252.107.62:443 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+2018+best+defensive+midfielders 2
+best+defensive+midfielders+2018 1
+striker+with+most+goals+2018 1
+best+fifa+forwards+2018 1
+en-gb 1
+best+left+backs+in+the+world+2018 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 16
+2018 6
+best 5
+defensive 3
+midfielders 3
+in 1
+left 1
+goals 1
+striker 1
+fifa 1
+forwards 1
+world 1
+backs 1
+en-gb 1
+with 1
+most 1
+the 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 24 213624
+401 4 39321
+301 136 0
+302 11 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/amp_preconnect_polyfill_404_or_other_error_expected._Do_not_worry_about_it 15 https://wikiceleb.com/top-11-best-defensive-midfielder-in-2018-fifa-world-cup-russia/amp/
+/wp-content/plugins/sportspress/assets/js/jquery.dataTables.min.js 2 -
+/wp-content/plugins/sportspress/assets/js/sportspress.js 2 -
+/amazon/ 3 -
+/wp-content/plugins/sportspress/assets/js/jquery.countdown.min.js 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 136
+198.252.107.62 509 509 43085 20180228234232
+192.198.80.227 21 21 189569 20180219170932
+100.7.196.125 8 8 1068686 20180213124340
+47.218.245.1 7 7 1075428 20180215205003
+73.252.32.91 7 22 1667342 20180203113019
+54.183.130.127 7 7 57971 20180226141256
+93.97.41.115 6 18 1887625 20180203094916
+87.74.173.34 6 6 1059645 20180205112807
+2.125.168.176 6 21 1652492 20180201163940
+24.60.86.210 6 18 1887624 20180202175435
+76.29.70.42 4 26 204334 20180215090913
+65.151.188.33 4 4 38900 20180227180844
+176.31.64.186 4 4 18928 20180223150614
+217.43.45.180 3 25 198802 20180222142024
+87.116.179.43 3 25 201510 20180216110740
+197.210.44.208 2 24 190507 20180212134417
+189.100.56.104 2 2 19674 20180217184245
+92.13.129.177 2 24 188838 20180222191713
+104.140.4.171 2 2 19529 20180222122645
+94.194.114.227 2 24 189333 20180224114907
+158.85.122.238 2 24 190505 20180210153733
+75.175.18.216 2 2 18399 20180218104520
+73.189.216.65 2 24 190344 20180207143358
+68.67.155.230 2 2 0 20180226063227
+212.175.150.111 2 24 223602 20180213142802
+192.0.101.59 0 1 65401 
+137.226.113.23 1 20 137929 20180205010959
+192.0.102.68 0 1 76050 
+204.79.180.5 0 6 62861 
+192.0.86.129 0 1 68600 
+192.0.99.107 0 2 223344 
+192.0.91.97 0 2 181971 
+192.0.84.119 0 1 31755 
+204.79.180.17 0 7 99299 
+192.0.102.116 0 1 28280 
+192.0.102.140 0 5 267906 
+192.0.99.34 0 2 97844 
+192.0.100.82 0 2 56841 
+204.79.180.3 0 3 9589 
+204.79.180.23 0 6 70945 
+192.0.113.49 0 1 68187 
+192.0.99.155 0 2 638243 
+137.226.113.22 1 20 138139 20180212001546
+192.0.86.125 0 1 63343 
+192.0.112.241 0 2 131472 
+192.0.86.166 0 2 138458 
+192.0.102.138 0 3 343075 
+192.0.116.50 0 2 62018 
+192.0.112.147 0 1 65542 
+192.0.100.35 0 1 103623 
+204.79.180.15 1 6 61468 20180214204157
+204.79.180.4 0 1 257 
+192.0.99.11 0 4 231789 
+204.79.180.0 0 3 14810 
+192.0.100.131 0 4 281110 
+192.0.114.82 0 1 68237 
+192.0.100.226 0 4 361663 
+197.210.227.99 0 1 56372 
+192.0.99.227 0 3 255972 
+192.0.102.144 0 3 205584 
+204.79.180.8 1 4 20604 20180227002842
+192.0.85.145 0 1 65542 
+192.0.102.24 0 3 209790 
+192.0.101.35 0 1 42475 
+192.0.101.218 0 2 97390 
+167.160.178.3 1 1 8282 20180202042930
+192.0.102.90 0 1 37657 
+204.79.180.12 1 3 71567 20180222215726
+192.0.84.121 0 1 100551 
+46.208.147.244 1 1 9457 20180206063931
+204.79.180.21 1 6 51956 20180226140217
+204.79.180.20 0 4 40407 
+192.0.113.241 0 1 68528 
+192.0.101.58 0 4 258404 
+192.0.102.72 0 3 110705 
+192.0.99.179 0 1 30627 
+192.0.88.53 0 1 63253 
+204.79.180.11 1 5 40720 20180221052358
+192.0.101.238 0 1 29137 
+192.0.102.114 0 3 76000 
+192.0.100.155 0 1 28888 
+192.0.99.35 0 1 29894 
+204.79.180.10 0 6 83775 
+204.79.180.19 1 9 91127 20180214075214
+137.226.113.26 1 1 8226 20180204115723
+192.0.100.11 0 2 196284 
+192.0.113.20 0 1 63343 
+192.0.102.142 0 1 45229 
+192.0.99.131 0 1 38198 
+192.0.101.168 0 1 57865 
+192.0.86.187 0 1 56372 
+192.0.101.192 0 3 344130 
+192.0.118.116 0 1 43761 
+204.79.180.1 0 4 28892 
+192.0.118.17 0 1 34140 
+192.0.101.240 0 3 114866 
+192.0.114.80 1 1 586 20180223104816
+204.79.180.16 0 5 85664 
+204.79.180.13 0 9 45903 
+204.79.180.22 0 6 88023 
+192.0.101.142 0 2 112744 
+42.236.10.78 0 1 28759 
+192.0.102.120 0 3 142458 
+192.0.112.210 0 1 114710 
+192.0.116.212 0 1 69930 
+192.0.101.166 0 3 204561 
+192.0.102.66 0 1 70556 
+204.79.180.18 0 6 25429 
+104.196.39.49 0 6 240 
+204.79.180.2 1 9 31759 20180212173910
+192.0.91.157 0 1 68187 
+65.151.189.4 1 1 9191 20180212051112
+192.0.100.107 0 2 249016 
+192.0.118.148 0 1 37192 
+192.0.100.154 0 4 236842 
+104.154.229.137 0 2 80 
+204.79.180.9 1 6 26365 20180205150911
+204.79.180.14 0 2 17041 
+192.0.118.209 0 1 63253 
+192.0.86.147 0 1 68237 
+204.79.180.7 0 5 50588 
+192.0.101.11 0 1 82993 
+173.234.249.34 1 1 8264 20180225174531
+192.0.113.145 1 1 586 20180209104742
+192.0.112.113 0 1 68600 
+192.0.84.123 0 1 29894 
+192.0.91.101 0 1 27078 
+192.0.102.94 0 1 46213 
+138.246.253.19 1 1 0 20180216155546
+191.180.180.100 2 2 19392 20180201142301
+192.0.99.178 0 1 91081 
+187.38.184.127 2 2 22269 20180202091523
+192.0.118.81 0 4 236377 
+192.0.101.144 0 5 268548 
+219.77.23.76 2 24 222228 20180218224812
+192.0.100.179 0 6 308823 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20180201 30 45 1700450 12
+20180202 37 49 1982321 16
+20180203 29 56 3575019 12
+20180204 19 20 55968 11
+20180205 26 79 1993635 14
+20180206 17 17 9457 10
+20180207 14 48 1064858 9
+20180208 12 12 8229 9
+20180209 15 16 141343 11
+20180210 21 55 1071276 11
+20180211 24 24 0 10
+20180212 33 103 1366543 15
+20180213 35 68 2858373 15
+20180214 14 47 462800 10
+20180215 25 71 2791060 9
+20180216 30 65 1076064 12
+20180217 25 26 95861 15
+20180218 25 49 355762 18
+20180219 24 24 25227 10
+20180220 11 11 0 8
+20180221 31 45 216531 9
+20180222 31 109 1679134 15
+20180223 22 22 43671 11
+20180224 17 40 226525 9
+20180225 23 23 8264 8
+20180226 18 36 224433 11
+20180227 19 34 195467 12
+20180228 18 20 80 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 12
+15mn-30mn 23
+0s-30s 195
+30s-2mn 6
+1h+ 42
+2mn-5mn 5
+30mn-1h 39
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 33
+/wp-cron.php 508 0 250 249
+/ 16 142334 14 15
+/bradley-cooper-irina-shayk-ready-second-baby/ 14 126277 10 10
+/top-11-strikers-2018-fifa-world-cup-russia/ 10 108457 9 5
+/wp-content/themes/awaken/fonts/fontawesome-webfont.woff2 8 515712 0 5
+/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/design-3/fonts/icomoon.ttf 7 27076 0 0
+/christian-charles-philip-bales-biography/ 7 72391 5 5
+/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/design-3/fonts/ptserif/PT_Serif-Web-Bold.ttf 7 2379972 0 3
+/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/design-3/fonts/robotoslab/RobotoSlab-Regular.ttf 7 1183448 0 0
+/alexis-sanchez-step-closer-move-arsenal-join-rivals/ 7 59437 5 5
+/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/design-3/fonts/ptserif/PT_Serif-Web-Regular.ttf 7 2513336 0 1
+/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/design-3/fonts/robotoslab/RobotoSlab-Bold.ttf 7 1194312 0 0
+/top-11-best-left-backs-2018-fifa-world-cup-russia/ 4 38259 3 2
+/saudi-arabia-road-russia-fifa-world-cup-2018/alshehri/ 4 18928 4 4
+/amp/ 3 26094 1 1
+/senegal-road-russia-fifa-world-cup-2018/ 3 27184 2 1
+/top-11-best-defensive-midfielder-in-2018-fifa-world-cup-russia/amp/ 3 44518 2 1
+/wp-content/themes/awaken/fonts/fontawesome-webfont.eot 2 137750 0 2
+/top-11-best-wingers-forwards-2018-fifa-world-cup-russia/amp/ 2 33559 2 0
+/top-11-strikers-2018-fifa-world-cup-russia/amp/ 2 32836 1 1
+/keisuke-hondas-biography/ 2 19243 1 1
+/top-11-best-defensive-midfielder-in-2018-fifa-world-cup-russia/ 2 18860 2 1
+/xmlrpc.php 2 1172 2 2
+/manchester-city-chasing-shakhtar-donetsks-brazilian-midfielder-fred/ 2 19529 1 1
+/brighton-liverpool-match-analysis/ 1 9191 1 1
+/top-11-best-centre-backs-in-2018-fifa-world-cup-russia/amp/ 1 17053 1 0
+/senegal-road-russia-fifa-world-cup-2018/koulibaly_senegal/ 1 6436 0 0
+/iran-road-russia-fifa-world-cup-2018/ 1 9038 1 1
+/brazil-road-russia-fifa-world-cup-2018/ 1 8933 1 1
+/shinji-okazakis-biography/ 1 8790 1 1
+/top-11-best-wingers-forwards-2018-fifa-world-cup-russia/ 1 11198 1 1
+/top-11-best-right-backs-in-2018-fifa-world-cup-russia/ 1 9637 1 1
+/top-11-best-central-midfielder-in-2018-fifa-world-cup-russia/ 1 9457 1 1
+END_SIDER

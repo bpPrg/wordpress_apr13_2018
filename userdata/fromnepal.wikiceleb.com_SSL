@@ -1,0 +1,21 @@
+--- 
+documentroot: /home/wikicele/public_html/fromnepal.tk
+group: wikicele
+hascgi: 1
+homedir: /home/wikicele
+ip: 198.252.107.62
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@fromnepal.wikiceleb.com
+serveralias: fromnepal.tk mail.fromnepal.tk www.fromnepal.tk www.fromnepal.wikiceleb.com
+servername: fromnepal.wikiceleb.com
+ssl: 1
+sslcacertificatefile: pkgacct_cab_fromnepal.wikiceleb.com
+sslcertificatefile: pkgacct_fromnepal.wikiceleb.com
+sslcertificatekeyfile: pkgacct_fromnepal.wikiceleb.com
+usecanonicalname: 'Off'
+user: wikicele
+userdirprotect: ''

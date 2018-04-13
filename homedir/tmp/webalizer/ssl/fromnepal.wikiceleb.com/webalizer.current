@@ -1,0 +1,172 @@
+# Webalizer V2.23-08 Incremental Data - 04/12/2018 06:49:45
+2018 4 12 6 49 45
+32 16 10 2 4 5 64598 20 18 0
+2 1 5 1 12
+3 2 4613 2 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 0 1 1 1
+4 2 108 2 2 2
+6 3 16541 4 4 3
+0 0 0 0 0 0
+6 4 15648 4 3 3
+6 4 15648 4 3 3
+0 0 0 0 0 0
+3 0 11986 2 3 3
+3 1 54 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 54 1
+4 3 15594 2
+5 2 160 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 1
+3 2 4559 2
+4 3 15594 2
+4 1 11988 3
+1 0 11928 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 1
+0 0 0 0
+2 1 54 1
+0 0 0 0
+2 1 54 1
+0 0 0 0
+3 2 4613 2
+0
+0
+0
+16
+0
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 4 7814716426037852777 40090 17 9
+/wp-cron.php
+0 12 0 594 0 0
+# End Of Table - urls
+# -sites- (monthly)
+104.236.38.198
+0 1 1 15486 1 1523238102
+/
+nugura.cs.usyd.edu.au
+0 3 0 23914 3 1523439756
+/
+159.203.123.95
+0 1 0 0 1 1523174874
+/
+198.252.107.62-static.reverse.arandomserver.com
+0 12 12 594 0 0
+-
+104.131.2.199
+0 1 0 0 1 1523178729
+/
+ec2-54-183-165-74.us-west-1.compute.amazonaws.com
+0 4 2 9118 2 1522999491
+/
+planetlab19.net.in.tum.de
+0 7 0 0 7 1523515785
+/
+104.131.89.179
+0 1 0 0 1 1523237268
+/
+159.203.125.41
+0 1 1 15486 1 1523177617
+/
+jobqueue-listener.jobqueue.netcraft.com-u4c5d2fba902e42ca8303322443b92737u-digitalocean
+0 1 0 0 1 1523240149
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+198.252.107.62-static.reverse.arandomserver.com
+0 1 1 54 0 0
+-
+planetlab19.net.in.tum.de
+0 2 0 0 2 1523515785
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://198.252.107.62
+0 3
+https://fromnepal.tk/wp-cron.php
+0 12
+- (Direct Request)
+0 15
+https://www.fromnepal.tk/
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 6
+WordPress/4.9.4; https://fromnepal.tk
+0 1
+WordPress/4.9.5; https://fromnepal.tk
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

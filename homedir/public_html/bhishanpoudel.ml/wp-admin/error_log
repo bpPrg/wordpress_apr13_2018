@@ -1,0 +1,16 @@
+[12-Apr-2018 02:50:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2 for query 
+      DELETE FROM wp9e_fb3d_pages
+		  WHERE page_ID IN ()
+     made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, iberezansky\fb3d\props_save, iberezansky\fb3d\set_post_pages, iberezansky\fb3d\delete_post_pages
+[12-Apr-2018 02:51:09 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2 for query 
+      DELETE FROM wp9e_fb3d_pages
+		  WHERE page_ID IN ()
+     made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, iberezansky\fb3d\props_save, iberezansky\fb3d\set_post_pages, iberezansky\fb3d\delete_post_pages
+[12-Apr-2018 03:00:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2 for query 
+      DELETE FROM wp9e_fb3d_pages
+		  WHERE page_ID IN ()
+     made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, iberezansky\fb3d\props_save, iberezansky\fb3d\set_post_pages, iberezansky\fb3d\delete_post_pages
+[12-Apr-2018 03:00:22 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2 for query 
+      DELETE FROM wp9e_fb3d_pages
+		  WHERE page_ID IN ()
+     made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, iberezansky\fb3d\props_save, iberezansky\fb3d\set_post_pages, iberezansky\fb3d\delete_post_pages

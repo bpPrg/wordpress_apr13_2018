@@ -1,0 +1,21 @@
+--- 
+documentroot: /home/wikicele/public_html
+group: wikicele
+hascgi: 1
+homedir: /home/wikicele
+ip: 198.252.107.62
+ipv6: ~
+owner: root
+phpopenbasedirprotect: 1
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@wikiceleb.com
+serveralias: www.wikiceleb.com mail.wikiceleb.com
+servername: wikiceleb.com
+ssl: 1
+sslcacertificatefile: pkgacct_cab_wikiceleb.com
+sslcertificatefile: pkgacct_wikiceleb.com
+sslcertificatekeyfile: pkgacct_wikiceleb.com
+usecanonicalname: 'Off'
+user: wikicele
+userdirprotect: ''

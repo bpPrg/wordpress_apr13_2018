@@ -1,0 +1,750 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/wikicele/tmp/awstats/awstats.wikiceleb.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2695                
+POS_VISITOR 12866               
+POS_DAY 20756               
+POS_DOMAIN 3552                
+POS_LOGIN 4077                
+POS_ROBOT 4232                
+POS_WORMS 4831                
+POS_EMAILSENDER 4962                
+POS_EMAILRECEIVER 5105                
+POS_SESSION 21090               
+POS_SIDER 21302               
+POS_FILETYPES 5240                
+POS_DOWNLOADS 5574                
+POS_OS 5670                
+POS_BROWSER 5932                
+POS_SCREENSIZE 7106                
+POS_UNKNOWNREFERER 7180                
+POS_UNKNOWNREFERERBROWSER 8395                
+POS_ORIGIN 9204                
+POS_SEREFERRALS 9348                
+POS_PAGEREFS 9525                
+POS_SEARCHWORDS 9808                
+POS_KEYWORDS 9969                
+POS_MISC 2357                
+POS_ERRORS 10037               
+POS_CLUSTER 3933                
+POS_SIDER_404 10184               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201003954 820 230325 15519154189151
+FirstTime 20171121000524
+LastTime 20171130233044
+LastUpdate 20171202104344 820 0 819 0 0
+TotalVisits 330                 
+TotalUnique 177                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 210                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 936 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 32 73 611562 40 62 780128
+1 29 102 1049358 31 89 1043117
+2 21 47 344400 19 65 2098943
+3 270 535 7130638 36 140 1277938
+4 43 109 1239696 17 73 778250
+5 18 54 595721 11 38 939657
+6 149 318 4515550 14 106 1015165
+7 423 908 10221920 53 247 2378967
+8 404 778 8978003 42 218 1240061
+9 480 915 7799729 61 325 3524766
+10 441 858 6375103 49 188 2550824
+11 42 86 862988 15 54 948878
+12 13 31 312274 13 21 344700
+13 10 27 240229 25 52 897274
+14 17 34 239426 13 78 1928262
+15 15 16 93056 13 17 405326
+16 11 34 181387 24 29 267608
+17 24 61 572249 6 15 413013
+18 24 48 274763 12 41 828642
+19 30 96 943870 5 40 633522
+20 21 87 986568 7 25 346644
+21 44 105 894435 15 45 414470
+22 168 290 3062487 23 107 572203
+23 240 530 5633671 34 146 3118748
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+np 2376 4869 53196060
+ca 373 377 243256
+us 110 482 4869495
+cn 14 95 1093419
+kr 14 14 149484
+fr 12 36 441749
+ee 11 35 521085
+ru 9 33 285381
+in 7 29 376986
+ae 7 7 48772
+tr 7 7 99169
+ie 6 63 734561
+no 4 49 550424
+nl 4 4 66781
+sa 3 3 20297
+iq 3 3 20294
+id 3 3 34008
+gb 3 30 391531
+es 1 1 5277
+bg 1 1 5993
+ro 1 1 5061
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+php 293 16911903 20171130220741 0
+googlebot 158 591312 20171130223117 13
+bot[\s_+:,\.\;\/\\-] 149 1404341 20171130203053 22
+bingpreview 109 2814363 20171129140242 0
+no_user_agent 62 3395426 20171130101932 0
+spider 31 181457 20171130220130 3
+slurp 27 182005 20171130205134 5
+google[_+\s]web[_+\s]preview 21 212890 20171124042943 0
+googlebot\-image 11 220863 20171128055230 0
+unknown 7 460 20171129075600 7
+crawl 5 47215 20171130163226 1
+robot 1 5993 20171128061259 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+js 2027 10464203 0 0
+xml 2 1258 0 0
+txt 1 8047 0 0
+png 57 3249959 0 0
+svg 150 699024 0 0
+css 616 3588434 0 0
+gif 40 144142 0 0
+woff 71 919784 0 0
+jpg 282 7706334 0 0
+html 791 7577495 0 0
+eot 2 137750 0 0
+Unknown 100 98424 0 0
+php 1914 25540085 0 0
+woff2 89 3024144 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/jetpack/readme.txt 1 0 8047
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+win8.1 87 23
+winxp 29 5
+macosx 49 19
+ios_iphone 150 36
+Unknown 519 416
+linuxandroid 1201 226
+macosx9 23 3
+macosx5 1 1
+win7 125 39
+linux 27 9
+win8 2 2
+linuxubuntu 34 10
+winnt 3890 2175
+winlong 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 58
+msie8.0 54 9
+chrome30.0.1599.82 17 1
+mozilla 17 17
+chrome38.0.1025.166 18 1
+firefox41.0 6 0
+iphone 23 23
+chrome49.0.2623.75 3 3
+chrome62.0.3202.94 3967 2204
+safari10.1 1 1
+minefield 1 1
+chrome62.0.3202.62 22 3
+seamonkey 1 1
+chrome11.0.696.71 4 4
+chrome16.0.883.0 1 1
+firefox0.10.1 1 1
+firefox38.0 1 1
+opera12.14 1 1
+android 619 80
+chrome57.0.2987.112 25 3
+msie10.0 1 1
+chrome59.0.3071.115 5 5
+opera12.17 1 1
+chrome60.0.3112.116 1 1
+chrome15.0.874.92 7 7
+chrome40.0.2214.91 11 1
+msie9.0 2 2
+firefox26.0 1 1
+opera12.16 102 9
+chrome30.0.0.0 1 1
+safari6.0 24 3
+chrome37.0.0.0 1 1
+firefox47.0 1 1
+chrome45.0.2454.93 1 1
+chrome57.0.2987.98 1 1
+chrome62.0.3202.84 461 111
+firefox57.0 39 5
+chrome57.0.2987.110 1 1
+chrome34.0.1847.137 1 1
+chrome61.0.3163.98 22 5
+safari11.0 84 8
+chrome46.0.2490.80 1 1
+chrome58.0.3029.83 46 10
+Unknown 399 389
+msie11.0 19 2
+chrome45.0.2454.94 1 1
+msie6.0 23 0
+firefox54.0 4 4
+safari5.1 19 2
+safari 20 2
+firefox40.1 2 2
+chrome57.0.2987.133 1 1
+chrome21.0.1180.89 3 3
+chrome59.0.3071.86 1 1
+chrome34.0.1847.114 14 14
+netscape5.0 2 2
+chrome61.0.3163.100 35 11
+firefox3.6.13 1 1
+chrome58.0.3029.110 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 19
+Jersey/2.25.1_(Apache_HttpClient_4.5) 20171122014941
+WordPress.com;_https://public-api.wordpress.com 20171130103900
+facebookexternalhit/1.1 20171130111402
+Python/3.6_aiohttp/2.3.3 20171124211116
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com) 20171121092351
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20171124042824
+WordPress.com;_http://wikiceleb.com 20171130103729
+Cpanel-HTTP-Client/1.0 20171121000526
+python-requests/2.13.0 20171123091719
+python-requests/2.18.1 20171122042342
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20171121000527
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20171126012443
+Jetpack_by_WordPress.com 20171130104135
+WordPress/4.9.1;_http://wikiceleb.com 20171130232643
+Go-http-client/1.1 20171128083218
+WordPress/4.8.3;_http://eceleb-gossip.com;_verifying_pingback_from_198.252.106.75 20171121092342
+WordPress/4.9;_http://wikiceleb.com 20171129130150
+WordPress/4.9;_http://wikiceleb.com;_verifying_pingback_from_198.252.107.62 20171126083229
+Opera/9.80_(Android;_Opera_Mini/31.0.2254/76.201;_U;_en)_Presto/2.12.423_Version/12.16 20171126201414
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+python-requests/2.13.0 20171123091719
+python-requests/2.18.1 20171122042342
+WordPress/4.9;_http://wikiceleb.com;_verifying_pingback_from_198.252.107.62 20171126083229
+Cpanel-HTTP-Client/1.0 20171121000526
+WordPress.com;_http://wikiceleb.com 20171130103729
+WordPress/4.9;_http://wikiceleb.com 20171129130150
+WordPress/4.8.3;_http://eceleb-gossip.com;_verifying_pingback_from_198.252.106.75 20171121092342
+WordPress/4.9.1;_http://wikiceleb.com 20171130232643
+Go-http-client/1.1 20171128083218
+facebookexternalhit/1.1 20171130111402
+Python/3.6_aiohttp/2.3.3 20171124211116
+Jetpack_by_WordPress.com 20171130104135
+WordPress.com;_https://public-api.wordpress.com 20171130103900
+Jersey/2.25.1_(Apache_HttpClient_4.5) 20171122014941
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 252 267
+From1 0 0
+From2 19 19
+From3 63 63
+From4 2635 5793
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 16 16
+bing 1 1
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://m.facebook.com 47 47
+http://m.facebook.com 7 7
+https://l.facebook.com 7 7
+https://m.facebook.com 1 1
+https://l.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 128 0
+404 97 505270
+405 2 42
+301 153 6170
+500 1 204
+206 27 2267192
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 48
+/wp-admin 2 -
+/articles/connie-britton-body-measurements.html 1 -
+/biographies/ryan-reynolds-biography.html 2 -
+/articles/raquel-welch-body-measurements.html 1 -
+/articles/jennifer-lopez-measurements.html 1 -
+/articles/lynda-carter-body-measurements.html 2 -
+/biographies/ethan-hawke-biography.html 1 -
+/utility/convert/ 1 -
+/biographies/heather-tesch-biography.html 1 -
+/biographies/andrea-tantaros-biography.html 1 -
+/biographies/lucas-till-biography.html 2 -
+/wp-content/themes/awaken/images/dotted-line.png 5 http://wikiceleb.com/wp-content/themes/awaken/style.css
+/biographies/kristin-cavallari-biography.html 1 -
+/biographies/lucy-liu-biography.html 1 -
+/biographies/kyle-chandler-biography.html 3 -
+/themes/wikiceleb/css/style.css 2 http://www.wikiceleb.com/biographies/emilia-clarke-biography.html
+/w/wp-admin 3 -
+/biographies/kevin-wu-biography.html 3 -
+/robots.txt 2 -
+/biographies/lacey-chabert-american-actress-and-voice-actress-biography.html 2 -
+/backup/phpThumb/phpThumb.php 7 -
+/index.html 1 -
+/biographies/ashton-kutcher-biography.html 1 -
+/biographies/gretchen-carlson-biography.html 1 -
+/wp-content/plugins/wooebay/modules/remote_support/remote_tunnel.php 1 -
+/articles/nigella-lawson-body-measurements.html 5 -
+/articles.html 1 -
+/biographies/julia-mancuso-biography.html 1 -
+/biographies/jim-collins-biography.html 4 -
+/assets/9d5db35d/jui/js/jquery-ui.min.js 2 http://www.wikiceleb.com/biographies/emilia-clarke-biography.html
+/biographies/alison-kosik-biography.html 1 -
+/assets/9d5db35d/jquery.js 2 http://www.wikiceleb.com/biographies/emilia-clarke-biography.html
+/biographies/hannah-hart-biography.html 1 -
+/wp-admin/admin-ajax.php 8 http://wikiceleb.com/wp-admin/customize.php
+/articles/alice-eve-body-measurements.html 1 -
+/themes/wikiceleb/css/bootstrap.css 2 http://www.wikiceleb.com/biographies/emilia-clarke-biography.html
+/articles/laurence-fishburne-networth.html 1 -
+/ads.txt 1 -
+/biographies/michelle-phan-biography.html 1 -
+/google4babb892cf76a405.html 1 -
+/images/celebs/scarlett-johansson-2-th.jpg 1 -
+/articles/carrie-keagan-body-measurements.html 2 -
+/biographies.html 1 -
+/assets/9d5db35d/jui/css/base/jquery-ui.css 2 http://www.wikiceleb.com/biographies/emilia-clarke-biography.html
+/biographies/philip-franchini-biography.html 1 -
+/biographies/ellie-kemper-biography.html 3 -
+/biographies/jack-harries-biography.html 3 -
+/w 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 210
+198.252.107.62 361 365 29815 20171130232643
+27.34.105.202 248 347 3077281 20171122104054
+27.34.105.136 248 321 4881798 20171126103212
+113.199.254.96 243 365 2545720 20171121114242
+27.34.21.13 199 253 2491953 20171124075713
+27.34.21.90 194 358 4565684 20171121101751
+27.34.21.92 179 259 2280981 20171125094403
+113.199.252.40 150 258 4166460 20171121090246
+27.34.17.65 124 201 2379703 20171130103715
+27.34.21.103 94 171 2407971 20171121224032
+113.199.253.202 79 159 3229000 20171121034006
+113.199.255.29 70 191 3263477 20171130110453
+27.34.105.253 51 69 477390 20171130233044
+27.34.21.231 49 99 1133020 20171128085512
+113.199.253.137 45 74 429591 20171121223658
+27.34.20.211 42 138 1963557 20171121082827
+27.34.21.228 41 323 349551 20171122104138
+113.199.255.186 33 105 1193828 20171124075547
+113.199.254.121 31 74 1184219 20171123231836
+182.93.64.44 30 107 1331266 20171127195616
+113.199.253.5 25 76 1979928 20171121072847
+27.34.105.87 24 208 328941 20171126101911
+202.51.88.53 20 107 1478171 20171121235353
+64.233.173.151 14 56 557040 20171125213804
+211.115.79.122 14 14 149484 20171121173200
+120.89.104.20 1 1 6751 20171126110340
+173.252.91.247 0 1 39290 
+188.165.26.121 1 1 5993 20171129005731
+31.13.113.194 0 7 65084 
+168.235.195.25 7 64 553102 20171122102127
+141.0.12.32 2 23 270958 20171125011326
+27.34.20.108 10 37 460098 20171125083123
+113.199.252.95 7 24 245791 20171126200946
+192.0.112.83 1 1 6179 20171130103729
+140.205.201.23 2 23 254654 20171124231147
+103.208.246.226 1 1 22952 20171127060235
+178.80.132.49 3 3 20297 20171125022149
+70.42.131.170 2 25 338233 20171125070108
+66.220.145.151 0 2 10400 
+66.133.109.36 3 3 261 20171121000526
+27.34.21.57 7 16 58577 20171129091939
+27.34.20.110 3 24 315662 20171125032046
+202.51.88.62 3 22 250830 20171125003052
+140.205.201.2 2 23 319518 20171128232018
+52.53.129.36 1 1 5993 20171128054234
+140.205.201.11 1 1 5931 20171124231143
+34.212.65.157 1 1 5277 20171122144403
+45.35.63.223 0 1 257 
+192.0.112.176 2 2 4 20171130104136
+158.69.64.72 1 1 5061 20171122042342
+45.35.109.200 0 1 10338 
+54.171.125.94 2 2 10954 20171124211116
+192.0.116.48 1 1 590 20171130104104
+64.233.172.141 1 5 23729 20171129193425
+113.199.253.46 3 12 85936 20171122034517
+103.28.86.3 1 1 7543 20171128050516
+192.0.118.206 1 1 2 20171130104135
+50.17.91.0 1 1 5993 20171128102503
+198.46.81.14 4 4 31800 20171121092342
+66.102.9.29 0 5 93724 
+67.218.134.221 1 1 5061 20171122050149
+27.34.20.255 3 12 89579 20171121180900
+54.91.38.37 1 1 5782 20171125193850
+110.34.22.33 1 1 64464 20171122064424
+24.6.148.146 2 24 328899 20171128061738
+27.34.21.170 2 7 133293 20171126201412
+31.13.113.192 2 15 228810 20171125172512
+27.34.21.104 2 19 203026 20171121202245
+162.242.156.106 4 4 18912 20171122183418
+27.34.16.82 1 1 7540 20171126091544
+66.102.8.17 0 1 32857 
+217.165.26.214 2 2 13569 20171126082025
+217.127.234.235 1 1 5277 20171123091719
+202.51.93.29 5 22 215380 20171121212457
+140.205.201.29 0 3 56438 
+27.34.104.77 1 1 6934 20171124212309
+198.37.143.214 1 18 194340 20171129130152
+66.102.9.143 0 2 24130 
+110.88.45.75 1 1 17417 20171122222928
+66.102.7.207 0 3 14346 
+27.34.105.179 9 26 223151 20171130101738
+64.233.172.143 2 4 18315 20171130102025
+66.249.82.94 1 1 5255 20171124041737
+27.34.17.148 3 15 12417 20171125103117
+175.42.43.37 2 2 45904 20171127093726
+31.13.113.197 0 3 38394 
+202.46.52.142 1 1 4389 20171121121712
+184.173.211.18 1 1 17417 20171123134911
+161.106.2.21 1 1 17417 20171122221535
+66.102.9.25 1 7 176431 20171126094909
+31.13.114.6 0 4 16570 
+31.13.113.198 1 5 19066 20171124071803
+2.50.4.63 5 5 35203 20171130102303
+113.199.254.195 2 24 328903 20171129193007
+180.247.148.91 2 2 28015 20171130231104
+202.70.70.37 3 16 224033 20171128040354
+45.35.109.217 0 1 344 
+27.34.20.122 3 3 12933 20171127211557
+162.209.168.18 1 1 13287 20171121121709
+45.35.167.95 0 1 765 
+192.0.116.144 1 2 8260 20171130103900
+185.26.180.27 2 25 278869 20171125011258
+64.233.173.150 11 62 578857 20171127064641
+66.102.7.203 0 2 9132 
+110.44.125.146 12 25 167197 20171126091338
+31.13.113.195 1 12 136748 20171124071805
+128.72.31.184 2 2 40689 20171128012034
+5.101.196.211 2 2 7151 20171127123921
+64.233.173.152 5 52 511576 20171127064645
+103.10.30.96 2 2 13363 20171125062041
+49.244.52.44 1 1 6709 20171126184611
+77.81.21.171 1 1 5061 20171122045044
+27.34.16.48 3 3 19361 20171125105706
+66.102.9.27 0 5 16728 
+66.220.145.150 1 12 194061 20171125231137
+75.149.221.170 1 1 22952 20171126185609
+27.34.20.13 1 1 64464 20171122074431
+182.253.40.155 1 1 5993 20171127094137
+167.114.172.223 8 8 148840 20171126012445
+94.250.254.92 2 2 20877 20171124122009
+95.158.148.101 1 1 5993 20171127091056
+27.34.19.126 2 12 115474 20171125092028
+113.199.255.249 2 10 26292 20171123065442
+185.26.180.168 2 24 271555 20171125011327
+66.102.9.141 0 3 3264 
+66.220.145.148 1 4 49239 20171125231131
+192.0.112.16 2 2 1682 20171130104135
+93.19.205.218 9 33 400922 20171130075829
+54.157.19.249 1 1 0 20171128083218
+45.35.63.231 0 1 2649 
+203.92.33.87 1 1 5061 20171122053222
+45.64.160.155 2 2 13363 20171125052305
+27.34.21.94 1 1 64464 20171124063344
+113.199.254.39 1 1 8627 20171121022531
+192.0.112.209 1 1 2 20171130104130
+113.199.253.113 3 13 93808 20171122184800
+223.230.10.62 3 25 334287 20171127004541
+192.0.112.116 1 1 164 20171130103724
+180.153.236.133 1 1 5782 20171125173826
+173.252.86.192 0 1 47059 
+192.0.112.242 2 20 266570 20171121124555
+27.34.104.160 2 22 305281 20171121070832
+91.235.187.180 1 1 5993 20171127094032
+69.171.225.35 0 1 84236 
+31.13.114.10 2 5 122210 20171127090325
+82.145.220.110 3 30 391531 20171126201413
+66.249.82.92 1 1 53 20171124042824
+185.202.103.51 1 1 1097 20171126064318
+192.0.114.80 2 2 171 20171130104052
+66.220.145.154 0 3 27787 
+66.249.82.93 1 1 5255 20171124041737
+192.0.116.240 1 1 300 20171130104135
+45.56.116.155 1 1 5993 20171128205510
+199.30.228.153 1 1 5037 20171122015732
+192.198.80.227 3 3 21297 20171130162733
+188.32.249.96 0 23 168709 
+31.13.114.8 0 3 69496 
+70.39.246.37 2 2 13532 20171121092351
+180.153.236.67 1 1 5277 20171123214433
+31.13.114.11 0 9 38183 
+113.199.254.7 2 7 7453 20171121185926
+45.55.12.175 1 1 5061 20171122052534
+110.44.125.186 14 24 324676 20171125094041
+202.70.70.243 1 19 173366 20171126170719
+45.35.167.109 0 1 39407 
+66.102.7.205 0 1 3826 
+183.36.114.161 1 17 122513 20171124092655
+113.199.253.245 2 21 243617 20171125023512
+27.34.21.135 2 20 216059 20171122235417
+45.35.109.235 0 1 7314 
+42.159.242.145 2 19 200017 20171124143100
+192.0.118.79 1 1 2283 20171130104135
+173.252.86.82 0 1 51802 
+51.254.101.95 1 1 17417 20171122152624
+192.0.118.80 1 1 334 20171130104135
+49.236.215.51 1 1 64464 20171125043900
+192.0.118.48 2 2 1287 20171130104135
+192.0.113.16 1 1 735 20171130104135
+116.66.197.134 1 1 7543 20171126220140
+27.34.20.22 1 1 7543 20171126093220
+66.220.151.86 0 1 7712 
+45.35.109.202 1 1 5027 20171121231702
+27.34.21.110 2 19 292885 20171121051241
+46.229.170.197 2 2 45904 20171126182518
+27.34.20.135 2 14 45246 20171129225608
+49.236.215.5 1 1 6934 20171124205505
+88.87.72.181 1 1 5993 20171128043025
+113.199.254.133 2 9 8079 20171122012308
+45.35.63.208 0 1 4303 
+113.199.170.200 1 1 7888 20171130212911
+54.210.127.61 1 1 0 20171128083218
+140.205.201.26 0 3 55579 
+66.102.9.145 1 2 14622 20171126094906
+103.250.132.78 12 35 401359 20171126030942
+109.127.79.103 3 3 20294 20171126015900
+45.35.167.83 0 1 183 
+27.34.104.250 1 1 6635 20171125024014
+103.75.209.158 2 2 14686 20171130061829
+37.145.15.219 2 3 55749 20171130153417
+45.35.63.248 0 1 358 
+27.34.105.169 5 28 17396 20171123105552
+192.0.113.17 1 1 1843 20171130104135
+158.69.229.134 3 3 59540 20171128211954
+202.70.70.217 2 21 246459 20171129051556
+54.80.113.73 1 1 5037 20171122014941
+64.233.172.145 1 5 21938 20171122075116
+192.0.91.149 1 1 302 20171130104101
+27.34.16.74 3 6 127724 20171126232309
+193.40.148.246 11 35 521085 20171126111752
+37.247.116.18 7 7 99169 20171130154051
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20171121 989 1953 25033308 39
+20171122 377 933 5346486 42
+20171123 68 162 1451077 22
+20171124 438 731 6548018 31
+20171125 146 455 5103420 45
+20171126 419 830 8191586 38
+20171127 46 121 1225469 24
+20171128 87 219 2325773 25
+20171129 43 122 940866 24
+20171130 356 616 6993080 40
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 18
+5mn-15mn 11
+1h+ 37
+0s-30s 219
+2mn-5mn 7
+30s-2mn 17
+30mn-1h 21
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 89
+/wp-admin/admin-ajax.php 1022 2343216 3 15
+/ 350 2651561 130 66
+/wp-cron.php 322 0 100 100
+/wp-admin/post.php 114 5373413 0 0
+/wp-admin/load-scripts.php 112 8469201 0 3
+/wp-content/themes/awaken/fonts/fontawesome-webfont.woff2 89 3024144 15 33
+/shinji-kagawa/ 75 414728 0 7
+/wp-admin/edit.php 54 903173 0 0
+/kenyu-sugimoto/ 50 413165 9 16
+/wp-admin/load-styles.php 49 3999647 0 2
+/shinji-okazakis-biography/ 41 354916 12 10
+/wp-admin/ 40 807976 2 0
+/wp-content/themes/awaken/fonts/fontawesome-webfont.woff 39 912752 0 11
+/wp-admin/nav-menus.php 38 631812 0 0
+/wp-admin/admin.php 36 685969 1 2
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 32 7032 0 0
+/wp-json/yoast/v1/ryte 29 3683 0 0
+/wp-json/yoast/v1/statistics 29 10320 0 0
+/manchester-united-vs-brighton-hove-albion/ 29 199366 15 11
+/wp-json/wp/v2/ 26 1324571 0 0
+/about/ 21 186997 8 10
+/category/sports/football/ 20 151198 2 1
+/category/entertainment/ 19 154851 0 0
+/liverpoolvschelsea2017-25-11/ 17 120044 4 7
+/lenedra-carroll-wiki-bio-age-facts/ 16 168558 2 3
+/category/celebrity-spouse/ 6 34722 0 1
+/wp-json/jetpack/v4/module/akismet/key/check 2 190 0 0
+/.well-known/acme-challenge/YWB0X-G776X_1R9BBNWLIOYSD_NNMBET 1 64 0 0
+/.well-known/acme-challenge/4WWCTHnbD09he67mZyf5rXUClA6U5ixcQkszn-__Htw 2 174 0 0
+/wp-admin/async-upload.php 10 6281 0 0
+/wp-json/jetpack/v4/module/stats/data 2 1185 0 0
+/sample-page/ 7 51852 0 0
+/wp-admin/post-new.php 15 638288 0 0
+/wp-admin/about.php 1 10261 0 0
+/69-2/ 5 53123 0 0
+/wp-json/jetpack/v4/site/features 2 2280 0 0
+/wp-json/jetpack/v4/module/protect/data 2 10 0 0
+/.well-known/acme-challenge/5KWL3Z7dEuhxi9u7gMZ0NWkCbjbMa0hlG1kWNBsGan0 2 174 1 0
+/wp-admin/upgrade.php 1 21 1 1
+/wp-admin/update.php 3 18179 0 0
+/.well-known/acme-challenge/PIL_H0TYWRWDKULJO94A5IQHIOR71CLT 1 64 0 0
+/category/sports/ 9 60697 0 0
+/wp-content/themes/awaken/fonts/fontawesome-webfont.eot 2 137750 1 2
+/wp-admin/theme-install.php 2 23508 0 0
+/wp-json/jetpack/v4/jitm 1 2 0 0
+/wp-admin/options-general.php 6 111161 0 0
+/.well-known/acme-challenge/0JGCPQ2J9B_5A0dLlKli0AkyPlUGOdHqRvDeL67t-rI 2 174 0 1
+/2017/11/21/hello-world/ 3 20583 0 0
+/wp-admin/customize.php 9 632978 0 0
+/wp-json/jetpack/v4/plugins 2 6450 0 0
+/wp-admin/edit-tags.php 4 53522 0 0
+/category/sports/cricket/ 5 35761 1 3
+/wp-admin/options-discussion.php 2 22583 0 0
+/wp-admin/options-writing.php 10 101336 0 0
+/wp-json/jetpack/v4/connection/data 2 1700 0 0
+/wp-admin/edit-comments.php 4 65504 0 0
+/wp-json/jetpack/v4/updates/plugins 2 182 0 0
+/wp-admin/options-permalink.php 2 21066 0 0
+/keisuke-hondas-biography/ 13 108449 2 3
+/category/celebrity/ 10 63743 1 1
+/.well-known/acme-challenge/sDJ75LM4IkT5pnj396MlJIanbsshocY0K-O051Amn0k 2 174 0 0
+/wp-content/plugins/jetpack/wpml-config.xml 1 213 1 1
+/wp-json/jetpack/v4/site 2 4560 0 0
+/wp-admin/index.php 5 99025 0 0
+/wp-admin/options-media.php 2 18327 0 0
+/waynerooney/ 3 25847 1 1
+/comments/feed/ 1 717 0 0
+/.well-known/acme-challenge/4XRJHO3RVVUMXL_6B-_V-FW6X6EV8HWW 1 64 0 0
+/.well-known/acme-challenge/SWWK094NJJ-TW6D1EGP6FDBWEXY1VHNM 1 64 1 0
+/category/news/ 16 108103 2 3
+/wp-login.php 16 20123 4 2
+/.well-known/acme-challenge/ZFtE4PrtX2uYeGRt-HKyl6uBt-lqbB1dY_9FPF6naXs 2 174 0 0
+/wp-admin/plugins.php 16 259833 0 0
+/wp-admin/plugin-install.php 5 81367 0 0
+/google50f3544524fb7fd0.html 2 106 1 1
+/yannick-bolasie/ 3 28735 0 0
+/wp-json/jetpack/v4/module/akismet/data 2 24 0 0
+/wp-admin/options-reading.php 6 60387 0 0
+/wp-admin/theme-editor.php 10 250351 0 0
+/xmlrpc.php 13 10501 9 11
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/wp-admin/widgets.php 10 428173 0 0
+/.well-known/acme-challenge/TJO062M-20Y-CTMYEADOQQ4AY-4OSY1G 1 64 0 0
+/.well-known/acme-challenge/BlyhUm2RMg5Bjz4UqnBJFCtYiXrKKj9JfbqHdLyRhac 2 174 0 1
+/wp-admin/themes.php 15 200879 0 0
+/cpanel 5 66410 1 0
+/.well-known/acme-challenge/JLQAKC_77T7QNT3NXFWG6LRQ8DJ8WMYJ 1 64 0 0
+/author/admin/ 2 19280 0 0
+/feed/ 2 17846 0 1
+END_SIDER

@@ -1,0 +1,26 @@
+/*!
+Theme Name: Wind
+Theme URI: http://www.rewindcreation.com/wind
+Author URI: http://www.rewindcreation.com/
+
+Description: Wind is a flexible and responsive framework based on Foundation 5. Wind is a simple and feature-rich theme that is perfect for your business or personal blog. It features 3 types of content carousels: ticker style, full-width and grid-width sliders. Wind has 5 Page Templates, 13 Widget Areas, 3 Menu Positions, 2 Custom Widgets and more. Simple and powerful options allow user changeing layout and design easily. It has build-in support to popular plugins such as Jetpack Sharing, WooCommerce, Jigoshop and bbPress.
+
+Author: RewindCreation
+
+Version: 1.1.5
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Tags: two-columns, three-columns, fluid-layout, responsive-layout, custom-background, threaded-comments, sticky-post, custom-menu, full-width-template, theme-options, post-formats, left-sidebar, right-sidebar, featured-images, light, dark
+
+Text Domain: wind
+
+Wind WordPress Theme, Copyright (C) 2014 Stephen Cui
+------------------------------------------------------------------ */
+/* Surprised to see empty stylesheet? Please note that Wind
+ * uses minified verion of stylesheet. The source is located in 
+ * css/wind.css. You may use one of the follow options:
+ * 1. Save Custom CSS in Theme Options
+ * 2. Create a Child Theme. Wind will include Child Theme's
+ * style.css automatically.
+------------------------------------------------------------------ */

@@ -1,0 +1,12 @@
+Version 1.1
+Slider style edited
+Secondary sidebar padding edited
+Secondary sidebar width edited
+Float of menu items (top menu) changed
+content-area padding edited
+max-width of Featured image text edited. 
+Changelog fixed 
+
+Version 1.0
+We strated with our new theme CeskaLipa. 
+We rework Twenty Thirteen theme (from WordPress Development Team) in this form. Use it. Have fun.

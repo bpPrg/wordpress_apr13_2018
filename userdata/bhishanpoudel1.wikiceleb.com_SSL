@@ -1,0 +1,20 @@
+--- 
+documentroot: /home/wikicele/public_html/bhishanpoudel.com
+group: wikicele
+hascgi: 1
+homedir: /home/wikicele
+ip: 198.252.107.62
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@bhishanpoudel1.wikiceleb.com
+serveralias: bhishanpoudel.com mail.bhishanpoudel.com www.bhishanpoudel.com www.bhishanpoudel1.wikiceleb.com
+servername: bhishanpoudel1.wikiceleb.com
+ssl: 1
+sslcertificatefile: pkgacct_bhishanpoudel1.wikiceleb.com
+sslcertificatekeyfile: pkgacct_bhishanpoudel1.wikiceleb.com
+usecanonicalname: 'Off'
+user: wikicele
+userdirprotect: ''
